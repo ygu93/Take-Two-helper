@@ -1,0 +1,2130 @@
+{
+   "Havencraft": [
+      {
+         "FIELD2": "",
+         "FIELD3": "",
+         "FIELD4": "",
+         "FIELD5": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Card": [
+      {
+         "FIELD2": "Ranking",
+         "FIELD3": "Score",
+         "FIELD4": "Set",
+         "FIELD5": "Comments",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "Ranking Legend:",
+         "FIELD9": "Downgraded",
+         "FIELD10": "Upgraded",
+         "FIELD11": "1st Pick Only",
+         "FIELD12": "Situational"
+      },
+      {
+         "FIELD2": "Ranking ",
+         "FIELD3": "Score",
+         "FIELD4": "Set",
+         "FIELD5": "Description",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Themis' Decree": [
+      {
+         "FIELD2": "A+",
+         "FIELD3": "95",
+         "FIELD4": "Core",
+         "FIELD5": "No one plays around it to an extent as the best way to beat haven is to split ur bodies to dodge 1 for 1's and it tends to blow out even when they do. Great with ur countdown stuff dodging it and lets you reach endgame safely when your being swarmed.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Priest of the Cudgel": [
+      {
+         "FIELD2": "A/A+",
+         "FIELD3": "91",
+         "FIELD4": "Core",
+         "FIELD5": "Insane banish effect that kills most things you care about when needed and trades into everything earlygame. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Moon Al-Mir'aj": [
+      {
+         "FIELD2": "A/A+",
+         "FIELD3": "91",
+         "FIELD4": "Core",
+         "FIELD5": "Insane value trades and heals itself to control board forever if they can't remove. Flexible in it's dependance on an evo charge and forces bad trades on it to keep her from healing.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Jeanne D'Arc": [
+      {
+         "FIELD2": "A/A+",
+         "FIELD3": "91",
+         "FIELD4": "Core",
+         "FIELD5": "Fafnir that comes out sooner which is nice, kills small stuff while buffing your followers for a decent trade or 2. Very solid lategame card.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Beastcall Aria": [
+      {
+         "FIELD2": "A",
+         "FIELD3": "86",
+         "FIELD4": "DE",
+         "FIELD5": "Probably on of the best things you can play on 2 then goes to being on of your worst topdecks late and midgame. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Blackened Scripture": [
+      {
+         "FIELD2": "B+/A",
+         "FIELD3": "79",
+         "FIELD4": "Core",
+         "FIELD5": "Premium Removal and banish too.deals with post evolve threats and most small stuff.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Guardian Nun": [
+      {
+         "FIELD2": "B+/A",
+         "FIELD3": "79",
+         "FIELD4": "Core",
+         "FIELD5": "Slap this down and it deters evolves with it's massive statline even pre-evolved. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Cleric Lancer ": [
+      {
+         "FIELD2": "B+/A",
+         "FIELD3": "79",
+         "FIELD4": "Core",
+         "FIELD5": "Great stats and it's enemy turn matters text deters attacking while you get ur countdowns and drag out the game where your favored. Evolves to kill stuff then turtles around as a huge ward.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Acolyte's Light": [
+      {
+         "FIELD2": "B+/A",
+         "FIELD3": "79",
+         "FIELD4": "Core",
+         "FIELD5": "Unconditional removal that's only drawback is cost which can be bridged by turtling your early game.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Incandescent Dragon": [
+      {
+         "FIELD2": "B+/A",
+         "FIELD3": "79",
+         "FIELD4": "Core",
+         "FIELD5": "Stops rushes all by itself when it comes out and makes evo trades inefficient. Large body for trading into midsized stuff. A tad slow against swarmy stuff sometimes but solid enough finisher.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "White Knight": [
+      {
+         "FIELD2": "B/A",
+         "FIELD3": "74",
+         "FIELD4": "Core",
+         "FIELD5": "Amazing blowout potentail but your big dudes aren't the biggest relative to other crafts. Still saving a 5/2 or something from dying to weenies is quite nice.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Kaguya": [
+      {
+         "FIELD2": "B+",
+         "FIELD3": "68",
+         "FIELD4": "DE",
+         "FIELD5": "Really annoying card that dominates board if you get the evolve off. It's a tad awkward when it dies on opponents turn but crafts a safe zone to trade in and control board after.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Sledgehammer Exorcist": [
+      {
+         "FIELD2": "B+",
+         "FIELD3": "68",
+         "FIELD4": "DE",
+         "FIELD5": "Panick evolve button that clears 2 things early usually with her crashing into something and just a solid 3 drop in general.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Holy Fox Grimaud": [
+      {
+         "FIELD2": "B+",
+         "FIELD3": "68",
+         "FIELD4": "DE",
+         "FIELD5": "This thing evolves and survives a ton of things. Forces opponents into tough spot midgame if they don't have any +3 health evolves to run into this after you make a good trade with it. Goliath with really solid upside is nice. About even with Nun both have their merits.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Heavenly Hound": [
+      {
+         "FIELD2": "B+",
+         "FIELD3": "68",
+         "FIELD4": "DE",
+         "FIELD5": "Top tier 2 drop beside mainyu. You can play this to ward up your evolved creature to not die to follower attacks and this thing becomes a premium 3 drop at the midgame stretch. Unenabled it just takes up a 2 drop slow which is never bad.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Beastly Vow": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "Core",
+         "FIELD5": "You can mulli for it quite often and it does a lot of unfair things with countdown reduce early on. Not as horrid late but still meh.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Curate": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "Core",
+         "FIELD5": "Heals your stuff or yourself when needed making it quite flexible and is fat enough late to accompany other stuff.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Forbidden Ritual": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "DE",
+         "FIELD5": "Very swingy card. Can be blowout or worse than death sentance when u miss everything late. Punishes a good early curve from opponent giving you a 1,2,3 for one even. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Sky Sprite ": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "DE",
+         "FIELD5": "Haven has a tendency to fall behind on board as opponents try to spread threats and race/trade good vs ur follower's/removal. This thing gives a good tempo play without burning an evolve. Bonus you can rush your tigers or barongs out when they break from amulets. Also 2/3 for 3.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Dark Priest ": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "Core",
+         "FIELD5": "Super annoying early-midgame and trades into everything effectively while detering trades into it. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Temple Defender": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "Core",
+         "FIELD5": "Causes really awkward trades early and slightly better than a 2/3 on the defensive side. Awkward when you finally want to trade her in though at times.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Dual Flames": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "Core",
+         "FIELD5": "Fast enough late game and lets you skip out on a clear board to deter enemy evolves and develop for later.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Angelic Noble": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "Core",
+         "FIELD5": "Hit's harder than fatties but isn't really threatening to kill. Still does it's job well and controls board into the lategame.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Prism Priest": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Gets you the 'good' amulets you were forced to draft and gets them early which is very nice. You usually can get away with a 3 mana 2/2 and later you can play her and the card she searched for.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Radiant Shaman": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Weaker evolve that gives a massive heal to you or an allie. Good enough to fight on it's own and solid 3 drop card.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Divine Birdsong": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Really good stats and instant action without evolves which is great on a countdown card. Comes out a bit earlier than the fatties to trade or push when needed.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Canoness": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Really solid early if this is your evolve target as it has just enough attack to kill most things and it's toughness stays quite high.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Pious Fox": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Let's you dodge a enemy turn 4 evolve trade and gives you something on board fast which is well stated at any point of the game.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Divine Armor": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Big enough late and really scary to remove if your neutral on board and you can drop this safely with other threats.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Arch Priestess Laelia": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Requires a lot of synergy that you don't have and does a lot of cute combat stuff that usually isn't that good. Still acts as a 6/6 and most potent when evolved and setting up another trade.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Monastic Holy water": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "DE",
+         "FIELD5": "Think of it as your cloud chorus -1 cost and +1 card. That sounds amazing and it probably is but sometimes it will be situational to get a good trade with it or you just splash it on a full health dude for cycle. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Winged Sentinel Garuda": [
+      {
+         "FIELD2": "B-",
+         "FIELD3": "56",
+         "FIELD4": "DE",
+         "FIELD5": "Fanfare connects even without an amulet proc. Acceptable filler without too much amulet stuff and amazingish if you can hit something with it.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Pinion Prince": [
+      {
+         "FIELD2": "B-",
+         "FIELD3": "56",
+         "FIELD4": "DE",
+         "FIELD5": "Amulet good stuff and vanilla stats. Does some magically unfair things when drafting those amulet synergies if you draw them early. I think Haven never had a real 4/5 statline on 5 too before this.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Cruel Priestess": [
+      {
+         "FIELD2": "C+/B",
+         "FIELD3": "53",
+         "FIELD4": "Core",
+         "FIELD5": "Really nice when it works but sorta reliant on your early amulet play and it gives up some important stats for the effect.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Masked Giant": [
+      {
+         "FIELD2": "C+/B",
+         "FIELD3": "53",
+         "FIELD4": "Core",
+         "FIELD5": "Big ward dude that gets the job done when you need a bigger big drop.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Death Sentence": [
+      {
+         "FIELD2": "C/B",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Comes down and clears board quite well along with an evolve trade after most of the time. Good timing to put it down at the right situation is important but a solid pickup with another good silver.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Dark Offering": [
+      {
+         "FIELD2": "C/B",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Blow's out both players trying to make a value game if the game stretches. Getting 4+ cards off this isn't too difficult later and it puts you out of damage reach too. A tad slow in tempo matchups where your followers on board are needed.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Sacred Plea": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Thins deck, look for high quality stuff in your draft and best 1 drop. Still has amulet issues but fine filler.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Ardent Nun": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Surprisingly annoying and trades with stuff well enough early.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Mainyu": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Another great ability to have on a weenie that keeps it safe from pings and removal",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Holy Sentinel": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "You pick this cause you have to, cause even a 4/5 ward for a varied countdown at 2 isn't much of an upgrade vs most crafts. Still passable and goodish vs aggro.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Sister Initiate": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Vanilla that speeds up your amulets which catches people off guard. Good enough by itself and makes countdowns less bad.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Holy Mage": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Stays hidden which is nice but has to go through quite a bit to even become the shadowcraft ambush 3 drop.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Power of Protection": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "A solid buff card later and toughness early lets you make a trade and keep the ward. Really good for taking board before an evolve and hopefully deter it. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Featherwrym Descent": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "I don't think I've ever played or seen this card actually go off tbh. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Healing Priestess": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "A tad better and has some cute text which makes a nice trade here and there.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Shrine Knight": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "A really potent effect but haven struggles to take board early unless ur super winning with a strong curve already where this could just be any other big dude. Still one of the better 5's to get.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Enstatued Seraph": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "DE",
+         "FIELD5": "This might actually be op. You have the best removals and ways to stall out game. Topdeck wars this vs another useless amulet is usually they break and can't storm to clear/win. This thing breaks and storms face for infinite damage. Draft for funsies and filler win con.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Radiance Angel": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "DE",
+         "FIELD5": "Cycles and heals you. Not an effect to underestimate. Evolves into a respectable body that can trade and life to tell the tale. Probably a bit better than filler.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Godsteel Wings": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "DE",
+         "FIELD5": "Tends to do well on curve and fall off later as with all other amulets. A tad better than barongs though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Heretical Inquiry": [
+      {
+         "FIELD2": "C/B-",
+         "FIELD3": "47",
+         "FIELD4": "Core",
+         "FIELD5": "Quite rng and easish to play around. Gets better the more controlly tools you draft to follow up with it. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Snake Priestess": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "Core",
+         "FIELD5": "Defensive stats/ability for the defensive craft. Helps stave off aggro early and late for your amulets to countdown and evolves to trade into stuff nicely. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Greater Priestess": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "Core",
+         "FIELD5": "Understated and doesn't give any benefit half the time it comes out.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Pinion Prayer": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "Smaller countdown good for early trades. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Hare of Illusion": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "Does cool things and infinite values throughout the game. Tends to be a tad low impact early game where it wants to come down though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Protectoress": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "Gets a fair amount of value comming down turns 4/5 with another low drop and evolve trading it or that drop into your enemy board. Very understated when you need to drop it on 2 though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Healing Prayer": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "Kinda like a +3 health later when you heal a tiger or something that trades with some countdown upside and saves you from reach later but quite fillerish.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Rabbit Healer ": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "Filler that saves your life sometimes or gives a good trade.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Noble Fangs": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "Super slow for what it does and opponents go way ahead in tempo as they can guage when it comes later as opposed to the tiger. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Devourer of Heavens": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "Comes in slow and effect can be played around and you have to jump through hoops to make it relevant and to bring it out early which will already be midgame. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Love's Gospel": [
+      {
+         "FIELD2": "D/C",
+         "FIELD3": "20",
+         "FIELD4": "Core",
+         "FIELD5": "Situational card that blows out at times and helps you win when you get to dictate trades. Bad in all other situations, still a 2 drop filler rare if that piles good.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Chorus of Prayer ": [
+      {
+         "FIELD2": "D/C",
+         "FIELD3": "20",
+         "FIELD4": "Core",
+         "FIELD5": "Really cute if you get the lucky roll with 7 amulets but then you realize ur playing 7 amulets and die to 5 swordcrafts and never play this.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Skullfane": [
+      {
+         "FIELD2": "D/C",
+         "FIELD3": "20",
+         "FIELD4": "Core",
+         "FIELD5": "Fixes the countdown problem of having garbage late but you have to play this garbage and draw it when it matters.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Hallowed Dogma": [
+      {
+         "FIELD2": "D/C",
+         "FIELD3": "20",
+         "FIELD4": "Core",
+         "FIELD5": "Godly with all your amulets and drawing them in specific orders. Skillful card but good when you forced to go into the amulet strategy. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Summon Pegasus": [
+      {
+         "FIELD2": "D/C-",
+         "FIELD3": "17",
+         "FIELD4": "Core",
+         "FIELD5": "Super slow, Bad draw late, Bad stats. Only somewhat ok early.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Guardian Sun": [
+      {
+         "FIELD2": "D",
+         "FIELD3": "5",
+         "FIELD4": "Core",
+         "FIELD5": "Trading in arena is how you win, this card encourages something that is already done so you get little value. If you have an incredible draft and this vs aggro you win cause of ur incredible draft more than this.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Elana's Prayer": [
+      {
+         "FIELD2": "D-",
+         "FIELD3": "2",
+         "FIELD4": "DE",
+         "FIELD5": "Heal is usually bad on most bodies and your do nothing amulet actually does nothing most of the time.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Veteran Tamer": [
+      {
+         "FIELD2": "B/A",
+         "FIELD3": "74",
+         "FIELD4": "RoB",
+         "FIELD5": "Excellent value, providing tempo while developing board with the amulet",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Luxhorn Sarissa": [
+      {
+         "FIELD2": "B+",
+         "FIELD3": "68",
+         "FIELD4": "RoB",
+         "FIELD5": "This can worst case be read as summon 5/2, deal 5 damage to enemy follower, which are worth 3.8 and 3.2. Seems good",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Ancient Lion Spirit": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "RoB",
+         "FIELD5": "Burning an evo for a board clear reminds me of humpty; it has better stats, clears enemies only and wrecks sword.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Tribunal of Good and Evil": [
+      {
+         "FIELD2": "B-",
+         "FIELD3": "56",
+         "FIELD4": "RoB",
+         "FIELD5": "Better than death sentence due to the reactive fanfare",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Damus, Oracle of Iniquity": [
+      {
+         "FIELD2": "C+/B",
+         "FIELD3": "53",
+         "FIELD4": "RoB",
+         "FIELD5": "It's kinda like a 3/2 taunt with bane worst case. Needs testing.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Valhallan General": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "RoB",
+         "FIELD5": "To get value out of this you need to be at 8 PP; think of the ability as an evo point. Is an evo worth 3.5 PP? ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Luxwing Reno": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "RoB",
+         "FIELD5": "Free damage is definitely an upside",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Frog Cleric": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "RoB",
+         "FIELD5": "Targeted heal can be useful, and it's on a fighter body",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Soul Collector": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "RoB",
+         "FIELD5": "The problem with this is your opponent can trade into the soul collector. Requires a huge enemy board to get value, which means you're dead.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Master Sage": [
+      {
+         "FIELD2": "C-",
+         "FIELD3": "25",
+         "FIELD4": "RoB",
+         "FIELD5": "Stats are awful and this is hard to combo with in TT",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Manifestation of Faith": [
+      {
+         "FIELD2": "C-",
+         "FIELD3": "25",
+         "FIELD4": "RoB",
+         "FIELD5": "Brings consistency into amulet heavy decks, albeit very slowly. Good in the right situations",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Pegasus Sculpture": [
+      {
+         "FIELD2": "D/C-",
+         "FIELD3": "17",
+         "FIELD4": "RoB",
+         "FIELD5": "win more card that isn't even that good",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Eidolon of Madness": [
+      {
+         "FIELD2": "D",
+         "FIELD3": "5",
+         "FIELD4": "RoB",
+         "FIELD5": "Maybe if you saw this first pick; even then you'd only see it 1/3 of the time and you lose massive tempo when playing.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "": [
+      {
+         "FIELD2": "",
+         "FIELD3": "",
+         "FIELD4": "",
+         "FIELD5": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Neutrals": [
+      {
+         "FIELD2": "",
+         "FIELD3": "",
+         "FIELD4": "",
+         "FIELD5": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Dark Angel Olivia": [
+      {
+         "FIELD2": "S",
+         "FIELD3": "98",
+         "FIELD4": "DE",
+         "FIELD5": "She lets you play in an unconventional way which lets you dominate board by wasting your evos. You obviously do this with her in hand if you employ that strategy. With 2 more evo charges assumking you rush her as a 6/6 you should be able to outvalue the opponent if still around even. Late gamey like satan with the lower impact if games out of reach.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Lucifer": [
+      {
+         "FIELD2": "B+/A-",
+         "FIELD3": "74",
+         "FIELD4": "Core",
+         "FIELD5": "Games can be won off of him both agressively and defensively. Helps completely stablize and also provides a threat. Awkward when you need to evolve him to trade though. But better than a lot of craft legends.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Gabriel": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "Core",
+         "FIELD5": "Awkward to land in practice and sometimes tend to be winmorish but makes a trade out of nowhere and has solid added statlines. Usually icing alongside another good gold or double legend pick.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Odin": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "DE",
+         "FIELD5": "Just a banish ability on legs. Solid lategame card with your pile. More towards filler in board reliant early game crafts similar to satan/lucifer but should be nice in those that want to go late or play value game. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Surefire Bullet": [
+      {
+         "FIELD2": "B/B+",
+         "FIELD3": "65",
+         "FIELD4": "DE",
+         "FIELD5": "Kills basically everything evolved that ran into something and a neutral soul hunt without the condition which is a solid removal. I expect this to be quite common from all crafts as a high quality pick.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Athena": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "Core",
+         "FIELD5": "Make board, trade in, Blow out. less good in more spell/amulet decks ofc but in any deck that want's to be trading for board since it drops early it's quite nice.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Gilgamesh": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "Core",
+         "FIELD5": "Finisher quality pick for any swarmy deck that wants a late drop that doesn't just die for free. Great for trading as a removal spell or ramming into 2/x's for profit leaving a threatening body.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Humpty Dumty": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "DE",
+         "FIELD5": "Great for the crafts that want it. Think of it as a super dragon warrior that kills everything around it and itself. Or just a Lore on a stick. Terrible as a vanilla and aggro/board centric drafts though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Dance Of Death": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "DE",
+         "FIELD5": "Crimson purge +1 deals damage to enemy face. Just an excecution with upside most of the time which is quite good.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Healing Angel": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "Core",
+         "FIELD5": "Trades incredibly well with it's 2/3 statline and has a relavent body of text. One of the premium common's to be bundled with your picks. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Spellbook Decryption": [
+      {
+         "FIELD2": "C+/B+",
+         "FIELD3": "59",
+         "FIELD4": "DE",
+         "FIELD5": "Again another later game refill card that wins topdeck wars in neutral games. Pretty bad rate but you will take alongside something good.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Execution": [
+      {
+         "FIELD2": "B-",
+         "FIELD3": "56",
+         "FIELD4": "Core",
+         "FIELD5": "Removal is quite nice and not too much weaker than craft specific ones. You'll want a couple damage/hard removal tools against big fatties that most crafts get access too from their gold/legend picks.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Goblinmount Demon": [
+      {
+         "FIELD2": "C+/B",
+         "FIELD3": "53",
+         "FIELD4": "Core",
+         "FIELD5": "Similar to constructed where you want to play tis in a controlling deck as it's kinda awkward in a board control follower based deck which you tend to draft. Still premium stats are nice and can usually make up for trading your board in to something moderate while estabilishing this.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Harnessed Glass": [
+      {
+         "FIELD2": "C/B",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Actually passable when evolving and hits like a 4/4 with aoe very similar to a necroelementalist for neutral when it works. Usually u can guage it and save it for surprise aoe or just drop it on a decent board and have it soak removal or it can skew tons of trades.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Demonic Strike": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "Core",
+         "FIELD5": "Neutral Removal and Reach. Tends to be filler alongside a playable but is quite potent. Helps you trade without an evo against awkward 8/2's that threaten board, manages trading boards to your favor and is a solid enough draw late game.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Shield Angel": [
+      {
+         "FIELD2": "C/B-",
+         "FIELD3": "47",
+         "FIELD4": "Core",
+         "FIELD5": "Depends on the deck for this one. You can draft a anti early game with 1/3's 2/3's and this and have quite a good time vs early drops. Big enough late to soak damage while not dying to low drops right away and small to deter removal. Still filleresque.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Lizardman": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "Core",
+         "FIELD5": "Not winning you the game but the double ward evo is relavent if your getting zooed down and stablizing late and the stats + ability is solid at all parts of the game. Solid pick alongside another playable uncommon.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Goliath": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "Core",
+         "FIELD5": "You need some 4's especially going first if you don't go deep in 2 drops. Sometimes you don't get a lot of class specific ones or need something to drop without wasting an evo charge. This fits the bill and is solid enough.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Angelic Sword Maiden": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "Core",
+         "FIELD5": "Some crafts are missing a good 5 drop, This is one that can fill in the slot and gives solid enough 2 for 1's with an evolve charge. Not too great without one and a tad less impactful lategame vs strong fatties.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Unicorn Dancer Unica": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "DE",
+         "FIELD5": "Solid filler does a little more for lategame crafts and blood sometimes since it soaks up 2 damage either through forcing a manditory trade or her heal passive. Also would eat bread with her.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Imperial Mammoth": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "DE",
+         "FIELD5": "Just a vanilla fatty for the filler. Dominates many post evolve boards and gives everycraft a dragon quality fatty. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Wind God": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "Core",
+         "FIELD5": "Tends to be passable in any follower based draft. Big enough with an evolve and relavent buffs. Quite a bit better the closer you draft a constucted sword, shadow, blood, fairy etc agrro list.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Archangel Reina": [
+      {
+         "FIELD2": "C-/B-",
+         "FIELD3": "39",
+         "FIELD4": "DE",
+         "FIELD5": "Explosive effect and you blitz people out of weenies like 4 sword knights or fairies. Too much win more I feel but you will pick this every few piles she's offered and she can do some work with even just 1 evolve giving a pseudo anthem boost to team.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Fighter ": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "Vanilla but gets the job done as an early drop if you need it.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Cloud Chorus": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "A bit more exciting than it's attack gain twin as it lets you save your creature in a trade acting as a \"fight\" sort of removal spell. Unfortunately not on a body like the Fencers and Gabriels of the game. Never pick this over onther P2 of strong spells/creatures.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Angelic Barrage": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "Core",
+         "FIELD5": "It tends to be a bit better a ping lategame than snipe as 3 vs 1 mana late game isn't as much and the spread obviously skews trades a lot. Hits some of the popular crafts hard and it alongside a solid curve can keep the board undercontrol.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Raging Ettin": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "DE",
+         "FIELD5": "1 mana understated but a lovable ability later in the game for most crafts and fair for a neutral.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Goblin": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "Filler alongside quality card or emergancy earlygame slot late in draft. 1/2's for 1 are good enough for a low curving deck though to fight board from the start.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Angelic Snipe": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "Ping is good and flexible in Arena where you can fill in a curve and make a good trade without evolving, not better than most uncommons offered though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Minotaur": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "A bit underwhelming early but low drop ward late helps make board awkward later. Not great with tokenmakers and pings.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Mercenary Drifter": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "Not as good as a 3/2 body but it gives you a 3 drop if your curve needs filling. Nothing fancy but will save your curve early sometimes.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Desert Rider": [
+      {
+         "FIELD2": "C",
+         "FIELD3": "35",
+         "FIELD4": "Core",
+         "FIELD5": "A bit worse statling than Goliath unless your drafting heavy aggro but trades into bigger stuff a bit better. Dies to a couple more removals but not a real factor to consider when drafting. About the same strength a bit to goliath in general but nice fillers to your 4 drop.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Keen Enchantment": [
+      {
+         "FIELD2": "C-",
+         "FIELD3": "25",
+         "FIELD4": "Core",
+         "FIELD5": "Cerberus puppet barely worth the card but helps trade without an evolve at times. Mainly only good when ahead and sets u back a card when catching up with a trade. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Well of Destiny": [
+      {
+         "FIELD2": "C-",
+         "FIELD3": "25",
+         "FIELD4": "Core",
+         "FIELD5": "It's not great but almost servicable filler. Quite win more but when it gets going like in a mirror match some trades can end up skewed. Still not worth drafting unless u get like 15 1 drops in sword.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Urd": [
+      {
+         "FIELD2": "C-",
+         "FIELD3": "25",
+         "FIELD4": "Core",
+         "FIELD5": "You need like 8 cute things to do with this before it's consistant. A bit understated but still servicable. Reseting followers is also a good perc. Potential alongside another servicable rare/legend but she wouldn't be my drawing factor to that pile. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Harnessed Flame": [
+      {
+         "FIELD2": "C-",
+         "FIELD3": "25",
+         "FIELD4": "Core",
+         "FIELD5": "Only pick this if your getting something godly in the pile or the other one is garbage. U can also consider it in a super aggro draft that has 15+ 1/2 drops.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Bellringer Angel": [
+      {
+         "FIELD2": "D+/C-",
+         "FIELD3": "20",
+         "FIELD4": "Core",
+         "FIELD5": "The card itself could just be a better uncommon unless its drafted beside something premium. On 2 it pushes you back on tempo and only helps wall board later. Replacing itself isn't as strong in lower card quality and inconsistancy of arena.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Prince of Darkness": [
+      {
+         "FIELD2": "D+/C-",
+         "FIELD3": "20",
+         "FIELD4": "Core",
+         "FIELD5": "Some games effectively end at turn 5 where he rots in your hand/deck. Other's in 15. Most decks want the effect late but sometimes you wish he was a fire lizard in your dragoncraft or something. Not as auto pick for me but quite tempting alongside something else good. ",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Angel Crusher": [
+      {
+         "FIELD2": "D-/C",
+         "FIELD3": "15",
+         "FIELD4": "Core",
+         "FIELD5": "Not worth it, vanilla + a bit when put out with an empty hand but takes up a 6(kinda) slot and rots in ur hand when you might need to drop something.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Trail of Light": [
+      {
+         "FIELD2": "D/D+",
+         "FIELD3": "10",
+         "FIELD4": "Core",
+         "FIELD5": "Unexciting cycle but unlike bellringer gets the card right away which a bit is more useful lategame.  Early game this is much worse to have though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Altered Fate": [
+      {
+         "FIELD2": "D-",
+         "FIELD3": "2",
+         "FIELD4": "Core",
+         "FIELD5": "Some cool stuff to do midgame but sets youback tempo on critical turns that you should be dropping something midrange or 2 low drops. Useless lategame and no combos to draw into in Arena. Also your other rare has to be amazing or have terrible cards in the other P2.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Path to Purgatory ": [
+      {
+         "FIELD2": "D-",
+         "FIELD3": "2",
+         "FIELD4": "Core",
+         "FIELD5": "Maybe if you get this with an altered fate in fairy P2 to make people think they in constructed. But yah no.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Demonic Simulacrum": [
+      {
+         "FIELD2": "D-",
+         "FIELD3": "2",
+         "FIELD4": "DE",
+         "FIELD5": "Worse than Ding Dong. Super Win more and not waifu.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Fortunehunter Feena": [
+      {
+         "FIELD2": "A",
+         "FIELD3": "86",
+         "FIELD4": "RoB",
+         "FIELD5": "One of the greatest 5 drop evos of all time, I would say this is an amazing card.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Bahamut": [
+      {
+         "FIELD2": "A",
+         "FIELD3": "86",
+         "FIELD4": "RoB",
+         "FIELD5": "Board clear + best body in game is amazing, the question is will the game go long enough.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Gourmet Emporor Khaiza": [
+      {
+         "FIELD2": "A-",
+         "FIELD3": "79",
+         "FIELD4": "RoB",
+         "FIELD5": "Haven't drafted one yet but I have high hopes for this card, as it should generate insane card advantage. Might be too slow for TT though.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Goblin Mage": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "RoB",
+         "FIELD5": "Maintaining tempo with instant draw, this seems pretty strong. Comparative to Thief.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Goblinbreaker Teena": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "RoB",
+         "FIELD5": "A worse dragon warrior, 2 vs 3 is a pretty big deal. Still great filler though, especially for crafts lacking in 4s",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Lucius, Goblin Slayer": [
+      {
+         "FIELD2": "B",
+         "FIELD3": "62",
+         "FIELD4": "RoB",
+         "FIELD5": "Counters sword, the most dominant craft in TT, so this should be pretty good.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Call of Cocytus": [
+      {
+         "FIELD2": "B-/B",
+         "FIELD3": "59",
+         "FIELD4": "RoB",
+         "FIELD5": "I'm going to put this under DoD for now as the upside is good but slow.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Hamsa": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "RoB",
+         "FIELD5": "This seems pretty good, should be a reliable 2/2 with big upside.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Angel of the Word": [
+      {
+         "FIELD2": "C+/B-",
+         "FIELD3": "50",
+         "FIELD4": "RoB",
+         "FIELD5": "Comparable to Fire Lizard, the ping is worth at least 1.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Lyrial, Celestial Archer": [
+      {
+         "FIELD2": "C+",
+         "FIELD3": "43",
+         "FIELD4": "RoB",
+         "FIELD5": "Fighter with an upside",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Sektor": [
+      {
+         "FIELD2": "C/C+",
+         "FIELD3": "39",
+         "FIELD4": "RoB",
+         "FIELD5": "Way too situational",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Uriel": [
+      {
+         "FIELD2": "D+/C-",
+         "FIELD3": "20",
+         "FIELD4": "RoB",
+         "FIELD5": "Very situational, bad stats otherwise.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Sahaquiel": [
+      {
+         "FIELD2": "D+/C-",
+         "FIELD3": "20",
+         "FIELD4": "RoB",
+         "FIELD5": "I've drafted this and it was quite underwhelming honestly. There aren't enough neutrals for this to proc usefully, making this a 7 mana 4/4 a lot of the time.",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ],
+   "Valkyrie's Spear": [
+      {
+         "FIELD2": "D",
+         "FIELD3": "5",
+         "FIELD4": "RoB",
+         "FIELD5": "Significantly worse than Well of Destiny and that is a pretty bad card",
+         "FIELD6": "",
+         "FIELD7": "",
+         "FIELD8": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "",
+         "FIELD12": ""
+      }
+   ]
+}
