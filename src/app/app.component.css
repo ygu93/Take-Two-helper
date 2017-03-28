@@ -27,12 +27,12 @@ time, mark, audio, video {
   height: 100vh;
 }
 
-h1 {
+.app-title {
   font-size: 36px;
   color: white;
 }
 
-h1 > div {
+.app-title > div {
   border-bottom: 2px solid gold;
   width: 300px;
   text-indent: 8px;
@@ -42,9 +42,29 @@ h1 > div {
   display: flex;
   align-items: flex-start;
   justify-content: center;
+  list-style: none;
+  margin-top: 30px;
 }
+
+.overlay{
+  z-index: 100;
+}
+
 
 .class-list li:hover{
   cursor: pointer;
-  background: rgba(black, 0.5);
+  filter: brightness(70%);
+}
+
+.select-header{
+  font-size: 24px;
+  color: white;
+  background: rgba(0, 0, 0, 0.8);
+  margin-top: 30px;
+  height: 40px;
+  border-top: 1px solid rgb(153,129,0);
+  border-bottom: 1px solid rgb(153,129,0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

@@ -9,7 +9,6 @@ import { CardDataService } from 'app/card-data.service';
   encapsulation: ViewEncapsulation.None
 })
 export class AppComponent {
-  title = 'app works!';
   class;
 
   constructor(private cardDataService: CardDataService) {
