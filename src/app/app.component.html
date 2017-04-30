@@ -2,18 +2,8 @@
   <h1 class= 'app-title'>
     <div>Take Two</div>
   </h1>
-  <div *ngIf="!class" class='select-class-container'>
-    <h2 class= 'select-header'><span>Select a class.</span></h2>
-    <ul class= "class-list">
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/6/chara.png?20170207a'/></li>
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/4/chara.png?20170207a'/></li>
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/1/chara.png?20170207a'/></li>
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/7/chara.png?20170207a'/></li>
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/3/chara.png?20170207a'/></li>
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/5/chara.png?20170207a'/></li>
-      <li><img src='https://shadowverse-portal.com/public/assets/image/top/en/classes/2/chara.png?20170207a'/></li>
-    </ul>
-  </div>
+  <app-select-class>
+  </app-select-class>
 
   <div *ngIf="class" class='select-card-container'>
     <div class = 'left-cards'>

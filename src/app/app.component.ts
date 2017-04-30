@@ -1,5 +1,6 @@
 import { Component, ViewEncapsulation } from '@angular/core';
 import { CardDataService } from 'app/card-data.service';
+import { SelectClassComponent } from './select-class/select-class.component';
 
 @Component({
   selector: 'app-root',
