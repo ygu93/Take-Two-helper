@@ -18,7 +18,9 @@ export class AppComponent {
   }
 
   getClass(className) {
-    this.class = this.cardDataService.getClass(className);
+    this.cardDataService.getClass(className).subscribe((data) => {
+      this.class = data;
+    });
   }
 
 
