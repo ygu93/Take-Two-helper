@@ -2,8 +2,10 @@
   <h1 class= 'app-title'>
     <div>Take Two</div>
   </h1>
+
   <app-select-class
-    (getClass)="getClass($event)">
+    (getClass)="getClass($event)"
+    *ngIf="!class">
   </app-select-class>
 
   <app-card-comparator [class] ="class">
