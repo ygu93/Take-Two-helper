@@ -16,32 +16,10 @@ export class AppComponent {
 
   }
 
-  getBlood() {
-    this.class = this.cardDataService.getBlood();
+  getClass(className) {
+    this.class = this.cardDataService.getClass(className);
   }
 
-  getDragon() {
-    this.class = this.cardDataService.getDragon();
-  }
 
-  getForest() {
-    this.class = this.cardDataService.getForest();
-  }
-
-  getHaven() {
-    this.class = this.cardDataService.getHaven();
-  }
-
-  getRune() {
-    this.class = this.cardDataService.getRune();
-  }
-
-  getShadow() {
-    this.class = this.cardDataService.getShadow();
-  }
-
-  getSword() {
-    this.class = this.cardDataService.getSword();
-  }
 
 }

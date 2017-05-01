@@ -11,8 +11,8 @@ export class CardDataService {
   }
 
 
-  getBlood(): Observable<any> {
-    return this.http.get('./resources/cards/Blood.json').map((res: any) => res.json());
+  getClass(className): Observable<any> {
+    return this.http.get(`./resources/cards/${className}.json`).map((res: any) => res.json());
   }
 
   getDragon() {
