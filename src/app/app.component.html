@@ -4,8 +4,8 @@
   </h1>
   <app-select-class>
   </app-select-class>
-  <div *ngIf="class" class='select-card-container'>
-    <app-card-comparator>
-    </app-card-comparator>
-  </div>
+
+  <app-card-comparator [class] ="class">
+  </app-card-comparator>
+
 </div>
