@@ -6,7 +6,7 @@ import { Component, OnInit, EventEmitter, Input, Output } from '@angular/core';
   styleUrls: ['./select-class.component.css']
 })
 export class SelectClassComponent implements OnInit {
-  @Output() selectedClass = new EventEmitter();
+  @Output() getClass = new EventEmitter();
 
   constructor() { }
 
@@ -14,7 +14,7 @@ export class SelectClassComponent implements OnInit {
   }
 
   selectClass(className: string) {
-    this.selectedClass.emit(className);
+    this.getClass.emit(className);
   }
 
 }
