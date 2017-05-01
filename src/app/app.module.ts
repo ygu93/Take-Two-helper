@@ -5,11 +5,13 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { SelectClassComponent } from './select-class/select-class.component';
+import { CardComparatorComponent } from './card-comparator/card-comparator.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SelectClassComponent
+    SelectClassComponent,
+    CardComparatorComponent
   ],
   imports: [
     BrowserModule,
