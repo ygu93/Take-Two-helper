@@ -1,0 +1,14 @@
+.select-card-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.left-cards{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.right-cards{
+  display: flex;
+  justify-content: flex-start;
+}
