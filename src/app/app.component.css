@@ -21,10 +21,20 @@ time, mark, audio, video {
 
 
 .app{
-  background-image: url('./assets/background.png');
-  background-size: cover;
   width: 100vw;
   height: 100vh;
+}
+
+.app:before{
+	display: block;
+	content: "";
+	position: fixed;
+	z-index: -1;
+	background-image: url('./assets/background_Lake.png');
+  background-size: cover;
+	width: 100vw;
+	height: 100vh;
+	filter: brightness(50%);
 }
 
 .app-title {
