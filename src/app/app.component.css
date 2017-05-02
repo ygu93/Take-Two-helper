@@ -29,7 +29,7 @@ time, mark, audio, video {
 	display: block;
 	content: "";
 	position: fixed;
-	z-index: -1;
+	z-index: -2;
 	background-image: url('./assets/background_Lake.png');
   background-size: cover;
 	width: 100vw;

@@ -12,7 +12,7 @@ import { CardComparatorComponent } from './card-comparator/card-comparator.compo
 })
 export class AppComponent {
   class;
-
+  className;
   constructor(private cardDataService: CardDataService) {
 
   }
@@ -20,6 +20,7 @@ export class AppComponent {
   getClass(className) {
     this.cardDataService.getClass(className).subscribe((data) => {
       this.class = data;
+      this.className = className;
     });
   }
 
