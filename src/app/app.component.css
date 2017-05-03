@@ -23,6 +23,7 @@ time, mark, audio, video {
 .app{
   width: 100vw;
   height: 100vh;
+	position: relative;
 }
 
 .app:before{
@@ -67,9 +68,10 @@ time, mark, audio, video {
 }
 
 .select-header{
+	position: relative;
   font-size: 24px;
   color: white;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.7);
   margin-top: 30px;
   height: 40px;
   border-top: 1px solid rgb(153,129,0);
