@@ -8,10 +8,13 @@ import { Component, OnInit, Input } from '@angular/core';
 export class SearchComponent implements OnInit {
 
   @Input() class: any;
+  query;
   result;
+  cardNames;
   constructor() { }
 
   ngOnInit() {
+    this.cardNames = Object.keys(this.class);
   }
 
   debounce(func, delay) {
@@ -24,9 +27,8 @@ export class SearchComponent implements OnInit {
   }
 
   search(query) {
-    const cardNames = Object.keys(this.class);
-    this.result = cardNames.filter((name) => name.includes(query));
-
+    query = query.toLowerCase();
+    this.result = this.cardNames.filter((name) => name.toLowerCase().includes(query));
   }
 
 }

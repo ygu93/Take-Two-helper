@@ -1,3 +1,4 @@
-<p>
-  search works!
-</p>
+<input type = text #query (keyup)="debounce(search(query.value),1000)" placeholder="Search for a card..."/>
+<ul>
+  <li *ngFor="let card of result">{{card}}</li>
+</ul>

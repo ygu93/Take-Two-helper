@@ -1,4 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
+import { SearchComponent } from '../search/search.component';
 
 @Component({
   selector: 'app-card-comparator',
