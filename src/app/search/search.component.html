@@ -1,4 +1,4 @@
-<input type = text #query (keyup)="debounce(search(query.value),1000)" placeholder="Search for a card..."/>
-<ul>
+<input type = text [(ngModel)]="query" #term="ngModel" (keyup)="debounce(search(term.value),1000)" placeholder="Search for a card..."/>
+<ul *ngIf="query">
   <li *ngFor="let card of result">{{card}}</li>
 </ul>
