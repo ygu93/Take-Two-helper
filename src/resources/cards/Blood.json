@@ -1,53 +1,10 @@
 {
-   "Bloodcraft": [
-      {
-         "FIELD2": "",
-         "FIELD3": "",
-         "FIELD4": "",
-         "FIELD5": "",
-         "FIELD6": "",
-         "FIELD7": "",
-         "FIELD8": "",
-         "FIELD9": "",
-         "FIELD10": "",
-         "FIELD11": "",
-         "FIELD12": ""
-      }
-   ],
-   "Card": [
-      {
-         "FIELD2": "Ranking",
-         "FIELD3": "Score",
-         "FIELD4": "Set",
-         "FIELD5": "Description",
-         "FIELD6": "",
-         "FIELD7": "",
-         "FIELD8": "Ranking Legend:",
-         "FIELD9": "Downgraded",
-         "FIELD10": "Upgraded",
-         "FIELD11": "1st Pick Only",
-         "FIELD12": "Situational"
-      },
-      {
-         "FIELD2": "Ranking ",
-         "FIELD3": "Score",
-         "FIELD4": "Set",
-         "FIELD5": "Description",
-         "FIELD6": "",
-         "FIELD7": "",
-         "FIELD8": "",
-         "FIELD9": "",
-         "FIELD10": "",
-         "FIELD11": "",
-         "FIELD12": ""
-      }
-   ],
    "Waredrobe Raider": [
       {
-         "FIELD2": "A",
-         "FIELD3": "86",
-         "FIELD4": "Core",
-         "FIELD5": "Does a near identical impression to dragon warrior which is a pretty decent card I hear.",
+         "Ranking": "A",
+         "Score": "86",
+         "Set": "Core",
+         "Description": "Does a near identical impression to dragon warrior which is a pretty decent card I hear.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -59,10 +16,10 @@
    ],
    "Soul Navigator": [
       {
-         "FIELD2": "A",
-         "FIELD3": "86",
-         "FIELD4": "DE",
-         "FIELD5": "A more defensively stated vampire bard which is better for generating bats if it lives a couple turns. Snowball potential and very good value upfont. Randomly kills you sometimes like beast dominator but ur in bloodcraft, your a masochist.",
+         "Ranking": "A",
+         "Score": "86",
+         "Set": "DE",
+         "Description": "A more defensively stated vampire bard which is better for generating bats if it lives a couple turns. Snowball potential and very good value upfont. Randomly kills you sometimes like beast dominator but ur in bloodcraft, your a masochist.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -74,10 +31,10 @@
    ],
    "Night Horde": [
       {
-         "FIELD2": "A-/A",
-         "FIELD3": "83",
-         "FIELD4": "Core",
-         "FIELD5": "A ping that establishes stuff on board and saves evo while not falling behind too much on tempo/cards.",
+         "Ranking": "A-/A",
+         "Score": "83",
+         "Set": "Core",
+         "Description": "A ping that establishes stuff on board and saves evo while not falling behind too much on tempo/cards.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -89,10 +46,10 @@
    ],
    "Revelation": [
       {
-         "FIELD2": "A-/A",
-         "FIELD3": "83",
-         "FIELD4": "Core",
-         "FIELD5": "This thing is so hard to play around cause you aren't supposed to more or less other than delaying vengence where you can just slap this on 8 and wreck board anyway anytime its convenient. ",
+         "Ranking": "A-/A",
+         "Score": "83",
+         "Set": "Core",
+         "Description": "This thing is so hard to play around cause you aren't supposed to more or less other than delaying vengence where you can just slap this on 8 and wreck board anyway anytime its convenient. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -104,10 +61,10 @@
    ],
    "Dire Bond": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "Core",
-         "FIELD5": "A fantastic card when people don't have enough consistancy to kill you early or do anything super threatening. Turns on vengence and all the good stuff but a tad bad lategame. ",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "Core",
+         "Description": "A fantastic card when people don't have enough consistancy to kill you early or do anything super threatening. Turns on vengence and all the good stuff but a tad bad lategame. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -119,10 +76,10 @@
    ],
    "Erinyes": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "Core",
-         "FIELD5": "The statline is good for a 5 and she has an insane trigger that is easy to manipulate for your craft.",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "Core",
+         "Description": "The statline is good for a 5 and she has an insane trigger that is easy to manipulate for your craft.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -134,10 +91,10 @@
    ],
    "Medusa": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "Core",
-         "FIELD5": "One of the cheasiest cards to evolve and ram into most things with. Less good if you blow your evolves on other stuff though.",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "Core",
+         "Description": "One of the cheasiest cards to evolve and ram into most things with. Less good if you blow your evolves on other stuff though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -149,10 +106,10 @@
    ],
    "Queen Vampire": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "Core",
-         "FIELD5": "Good value legendary that protects you and herself and amazingly flexible evolves.",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "Core",
+         "Description": "Good value legendary that protects you and herself and amazingly flexible evolves.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -164,10 +121,10 @@
    ],
    "Furiae": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "Core",
-         "FIELD5": "Free card advantage and negligible ping that kills people randomly. Huge body to rush into stuff. Win condition by itself and quite cheap.",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "Core",
+         "Description": "Free card advantage and negligible ping that kills people randomly. Huge body to rush into stuff. Win condition by itself and quite cheap.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -179,10 +136,10 @@
    ],
    "Temptress Vampire": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "Core",
-         "FIELD5": "Super flexible ping that lets ur small dudes trade up or lets you burn for face racing. One of the best lategame cards to draft if you plan on reaching that point. ",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "Core",
+         "Description": "Super flexible ping that lets ur small dudes trade up or lets you burn for face racing. One of the best lategame cards to draft if you plan on reaching that point. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -194,10 +151,10 @@
    ],
    "Vania, Vampire Princess": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "DE",
-         "FIELD5": "It's as good as a 2 mana floral fencer woud be. You pick this as a premium 2 drop in a low curving deck and you can generate a good trade and have a strong board alongside another 2. ",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "DE",
+         "Description": "It's as good as a 2 mana floral fencer woud be. You pick this as a premium 2 drop in a low curving deck and you can generate a good trade and have a strong board alongside another 2. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -209,10 +166,10 @@
    ],
    "Soul Dealer": [
       {
-         "FIELD2": "B/A",
-         "FIELD3": "74",
-         "FIELD4": "Core",
-         "FIELD5": "You actually force vengece aggro quite a lot and this turns everything on and is a pretty good 4 drop in both sides.",
+         "Ranking": "B/A",
+         "Score": "74",
+         "Set": "Core",
+         "Description": "You actually force vengece aggro quite a lot and this turns everything on and is a pretty good 4 drop in both sides.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -224,10 +181,10 @@
    ],
    "Alucard": [
       {
-         "FIELD2": "B+/A-",
-         "FIELD3": "74",
-         "FIELD4": "Core",
-         "FIELD5": "Cheaper gilgamesh that heals when it matters letting you escape most reach.",
+         "Ranking": "B+/A-",
+         "Score": "74",
+         "Set": "Core",
+         "Description": "Cheaper gilgamesh that heals when it matters letting you escape most reach.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -239,10 +196,10 @@
    ],
    "Razory Claw": [
       {
-         "FIELD2": "B+",
-         "FIELD3": "68",
-         "FIELD4": "Core",
-         "FIELD5": "This card is great burn and removal that gets you close to vengence as well.",
+         "Ranking": "B+",
+         "Score": "68",
+         "Set": "Core",
+         "Description": "This card is great burn and removal that gets you close to vengence as well.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -254,10 +211,10 @@
    ],
    "Crazed Executioner": [
       {
-         "FIELD2": "B+",
-         "FIELD3": "68",
-         "FIELD4": "Core",
-         "FIELD5": "Ahead of curve kind of and free self damage is good till it kills you. Trades with a ton and bests a lot of 4's and 5's when it evolves yoo.",
+         "Ranking": "B+",
+         "Score": "68",
+         "Set": "Core",
+         "Description": "Ahead of curve kind of and free self damage is good till it kills you. Trades with a ton and bests a lot of 4's and 5's when it evolves yoo.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -269,10 +226,10 @@
    ],
    "Imp Lancer ": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "Core",
-         "FIELD5": "Very good stat distribution for it's card letting it act like a 1/4 that evolved into something to make a really good trade or just storm for face to race people.",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "Core",
+         "Description": "Very good stat distribution for it's card letting it act like a 1/4 that evolved into something to make a really good trade or just storm for face to race people.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -284,10 +241,10 @@
    ],
    "Demonic Storm": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "Core",
-         "FIELD5": "Sometimes brings you really low  to die to storms from sword/dragon etc but it's pretty clean aoe when you fall too far on board.",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "Core",
+         "Description": "Sometimes brings you really low  to die to storms from sword/dragon etc but it's pretty clean aoe when you fall too far on board.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -299,10 +256,10 @@
    ],
    "Azazel": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "DE",
-         "FIELD5": "Fun card that bursts people, makes vengence ok and helps you come back when your on board but scared at like >5 hp. Does all these things well enough. Should be the equivalent of a couple turns of both lucifer sides when needed. Awkward at times though.",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "DE",
+         "Description": "Fun card that bursts people, makes vengence ok and helps you come back when your on board but scared at like >5 hp. Does all these things well enough. Should be the equivalent of a couple turns of both lucifer sides when needed. Awkward at times though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -314,10 +271,10 @@
    ],
    "Serpent Charmer": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "DE",
-         "FIELD5": "Wow wow wow, this thing makes aggro so exciting in constructed(side rant on bad evaluation). Just a 3/2 for 2 which is above average early that means nothing on trading side most of the time but it hits harder on all stages of game with a minimal downside. Think this is ur best 2 drop alongside wolf and bats. ",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "DE",
+         "Description": "Wow wow wow, this thing makes aggro so exciting in constructed(side rant on bad evaluation). Just a 3/2 for 2 which is above average early that means nothing on trading side most of the time but it hits harder on all stages of game with a minimal downside. Think this is ur best 2 drop alongside wolf and bats. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -329,10 +286,10 @@
    ],
    "Blood Wolf": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "Core",
-         "FIELD5": "Trades into 2 drops or makes ur vengence count faster and a free ping/push card lategame. ",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "Core",
+         "Description": "Trades into 2 drops or makes ur vengence count faster and a free ping/push card lategame. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -344,10 +301,10 @@
    ],
    "Righteous Devil": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "Core",
-         "FIELD5": "Some great keywords once vengence is online and a good body for trades midgame for when you want to push board with him",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "Core",
+         "Description": "Some great keywords once vengence is online and a good body for trades midgame for when you want to push board with him",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -359,10 +316,10 @@
    ],
    "Crimson Purge": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "Core",
-         "FIELD5": "Kills problem stuff, enables vengence quicker and it's quite cheap.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "Core",
+         "Description": "Kills problem stuff, enables vengence quicker and it's quite cheap.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -374,10 +331,10 @@
    ],
    "Beast Dominator": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "Core",
-         "FIELD5": "This is a pretty \"skillful\" card and you should treat this as a 2 turn card in most cases before it starts being useless in most cases. So you want to put this out and force trades or make it scary so they have to remove her and you keep your board going.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "Core",
+         "Description": "This is a pretty \"skillful\" card and you should treat this as a 2 turn card in most cases before it starts being useless in most cases. So you want to put this out and force trades or make it scary so they have to remove her and you keep your board going.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -389,10 +346,10 @@
    ],
    "Bloody Mary": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "DE",
-         "FIELD5": "Constructed hype and another fine legged lady. Does some cute things but mainly just a vanilla body.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "DE",
+         "Description": "Constructed hype and another fine legged lady. Does some cute things but mainly just a vanilla body.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -404,10 +361,10 @@
    ],
    "Summon Bloodkin": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "Sword's oathless knights reskined with some random bat synergies that help the aggro and board control plans of the craft.",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "Sword's oathless knights reskined with some random bat synergies that help the aggro and board control plans of the craft.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -419,10 +376,10 @@
    ],
    "Succubus": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "Actual good ability that randomly hits for 2-6 for free quite often for no cost with a great statline. Also shes a freaking succubus.",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "Actual good ability that randomly hits for 2-6 for free quite often for no cost with a great statline. Also shes a freaking succubus.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -434,10 +391,10 @@
    ],
    "Vampire Lycos": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "Good reach evolve that enables vengence and kills your opponent with help. Mainly for the statline and as a 3 drop for snowballing board.",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "Good reach evolve that enables vengence and kills your opponent with help. Mainly for the statline and as a 3 drop for snowballing board.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -449,10 +406,10 @@
    ],
    "Blood Rage": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "Removal with some upside later when your dying which is relavent. Sometimes you don't get enough claws and this tends to suffice.",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "Removal with some upside later when your dying which is relavent. Sometimes you don't get enough claws and this tends to suffice.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -464,10 +421,10 @@
    ],
    "Savage Hunt": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "More hard removal alongside your other options which makes drafting removal quite consistant in blood. Nice bonus near the end of games too that is quite relavent. ",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "More hard removal alongside your other options which makes drafting removal quite consistant in blood. Nice bonus near the end of games too that is quite relavent. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -479,10 +436,10 @@
    ],
    "Rampaging Giant": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "Ward is what you want when your dying and ward on a fair costed fatty is great. ",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "Ward is what you want when your dying and ward on a fair costed fatty is great. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -494,10 +451,10 @@
    ],
    "Labyrinth Devil": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "DE",
-         "FIELD5": "Goliath most of the game with a fantastic lategame destruction effect. Most of the time you just slam him on board for value but definitely one of the best vengence triggers you can draft now on a filler 4 drop. ",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "DE",
+         "Description": "Goliath most of the game with a fantastic lategame destruction effect. Most of the time you just slam him on board for value but definitely one of the best vengence triggers you can draft now on a filler 4 drop. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -509,10 +466,10 @@
    ],
    "Dark General": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "Core",
-         "FIELD5": "Inherent bias to this card tbh. Storm is good for when your losing but sometimes it's too late. Good reach for surprising opponents from the hand.",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "Core",
+         "Description": "Inherent bias to this card tbh. Storm is good for when your losing but sometimes it's too late. Good reach for surprising opponents from the hand.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -524,10 +481,10 @@
    ],
    "Vampire Bard": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "Core",
-         "FIELD5": "It's quite frail but leaves stuff behind and can come in to really pressure board. Good when ur neutral and winning a bit.",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "Core",
+         "Description": "It's quite frail but leaves stuff behind and can come in to really pressure board. Good when ur neutral and winning a bit.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -539,10 +496,10 @@
    ],
    "Abyss Beast": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "Core",
-         "FIELD5": "A lot easier to pull off in arena where the ping can bring down a big creature and it helps you stablize on board. Decent enough as a slightly overcosted fatty.",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "Core",
+         "Description": "A lot easier to pull off in arena where the ping can bring down a big creature and it helps you stablize on board. Decent enough as a slightly overcosted fatty.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -554,10 +511,10 @@
    ],
    "Precious Bloodfangs": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "DE",
-         "FIELD5": "Really wierd card since you usually have to be behind a bit to generate value. Still a bloodkin summon on 2 (common) for 1 mana which is great and gets you fodder on board for bat synegies or act as annoying pings.",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "DE",
+         "Description": "Really wierd card since you usually have to be behind a bit to generate value. Still a bloodkin summon on 2 (common) for 1 mana which is great and gets you fodder on board for bat synegies or act as annoying pings.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -569,10 +526,10 @@
    ],
    "Frenzied Juggernaut": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "DE",
-         "FIELD5": "Really nice effect to turn on ur vengence when you want it and put a big body on board. Awkward vs a large enemy board and when your dying at 11 or something but still a fantastic 7 drop I drop my fatty card to draft. Don't like it in lot since ur about tempo aggro(usually) but you pick 1 as fatty filler a lot like your other high drops. ",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "DE",
+         "Description": "Really nice effect to turn on ur vengence when you want it and put a big body on board. Awkward vs a large enemy board and when your dying at 11 or something but still a fantastic 7 drop I drop my fatty card to draft. Don't like it in lot since ur about tempo aggro(usually) but you pick 1 as fatty filler a lot like your other high drops. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -584,10 +541,10 @@
    ],
    "Demonic Thrall": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "DE",
-         "FIELD5": "Not as good as rampaging giant as a big drop most cases cause it has no protection but the more agressive of the two that trades better on vengence. Otherwise a vanilla 6.",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "DE",
+         "Description": "Not as good as rampaging giant as a big drop most cases cause it has no protection but the more agressive of the two that trades better on vengence. Otherwise a vanilla 6.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -599,10 +556,10 @@
    ],
    "Blood Pact": [
       {
-         "FIELD2": "C/B",
-         "FIELD3": "50",
-         "FIELD4": "Core",
-         "FIELD5": "Broken late or kills you then but one of the best card advantage tools that gives you them right away at a fair cost. Can even cast early if little pressure. ",
+         "Ranking": "C/B",
+         "Score": "50",
+         "Set": "Core",
+         "Description": "Broken late or kills you then but one of the best card advantage tools that gives you them right away at a fair cost. Can even cast early if little pressure. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -614,10 +571,10 @@
    ],
    "Diabolic Drain": [
       {
-         "FIELD2": "C/B",
-         "FIELD3": "50",
-         "FIELD4": "Core",
-         "FIELD5": "The discount is great but hard to get off when you most want it and when it's overcosted it tends to be bad removal which sometimes takes you away from your vengence when u want it. ",
+         "Ranking": "C/B",
+         "Score": "50",
+         "Set": "Core",
+         "Description": "The discount is great but hard to get off when you most want it and when it's overcosted it tends to be bad removal which sometimes takes you away from your vengence when u want it. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -629,10 +586,10 @@
    ],
    "Midnight Vampire": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "Core",
-         "FIELD5": "Her assets probably give her a nice boost in rating. Tends to be vanilla.",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "Core",
+         "Description": "Her assets probably give her a nice boost in rating. Tends to be vanilla.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -644,10 +601,10 @@
    ],
    "Barbaric Demon": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "Core",
-         "FIELD5": "Dragon laughs at this but you have a lot more small stuff u want to be protecting and this is the biggest 4 you can get and it turns on vengence pretty reliably if it can get in a couple times. ",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "Core",
+         "Description": "Dragon laughs at this but you have a lot more small stuff u want to be protecting and this is the biggest 4 you can get and it turns on vengence pretty reliably if it can get in a couple times. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -659,10 +616,10 @@
    ],
    "Medusa's Gaze": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "DE",
-         "FIELD5": "Almost the same as highway to hell but you keep your card but it's worse on defense but still acts as a 'fight' card which is fine psuedo removal for follower heavy drafts. A tad better with your summons acting as a cheap excecution. ",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "DE",
+         "Description": "Almost the same as highway to hell but you keep your card but it's worse on defense but still acts as a 'fight' card which is fine psuedo removal for follower heavy drafts. A tad better with your summons acting as a cheap excecution. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -674,10 +631,10 @@
    ],
    "Vampiric kiss": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "DE",
-         "FIELD5": "Actually really nice having some low drop finishing removal and a larger 2 drop pool of non 2/1s and such. This is the cheapest removal blood gets alongside claw which is usually wanted as reach too to kill off low drops. You know what other craft has 2 good removals early? Shadow.",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "DE",
+         "Description": "Actually really nice having some low drop finishing removal and a larger 2 drop pool of non 2/1s and such. This is the cheapest removal blood gets alongside claw which is usually wanted as reach too to kill off low drops. You know what other craft has 2 good removals early? Shadow.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -689,10 +646,10 @@
    ],
    "Dark Summoner": [
       {
-         "FIELD2": "C/B-",
-         "FIELD3": "47",
-         "FIELD4": "Core",
-         "FIELD5": "She has a overstated evo + random self burn that is great for double dropping and trading for the aggro/board push plan and is a fair card without any other fluff. ",
+         "Ranking": "C/B-",
+         "Score": "47",
+         "Set": "Core",
+         "Description": "She has a overstated evo + random self burn that is great for double dropping and trading for the aggro/board push plan and is a fair card without any other fluff. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -704,10 +661,10 @@
    ],
    "Ambling Wraith": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "Randomly enables vengence and you get the aggro plan going early if you go that route.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "Randomly enables vengence and you get the aggro plan going early if you go that route.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -719,10 +676,10 @@
    ],
    "Sweetfang Vampire": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "Free heal is nice and lets you go 2 and a 2 or 2 and a 3 into evolve and trade into something with her nice evolve statline. ",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "Free heal is nice and lets you go 2 and a 2 or 2 and a 3 into evolve and trade into something with her nice evolve statline. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -734,10 +691,10 @@
    ],
    "Metal Gargoyle ": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "Filler but with good stats to want to pick as a 3 and a decent ability especially to have when ur dying.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "Filler but with good stats to want to pick as a 3 and a decent ability especially to have when ur dying.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -749,10 +706,10 @@
    ],
    "Killer Devil": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "I like this card a lot tbh. But it's quite vulnerable to many pings and bigger stuff, still good for early trades and split body. ",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "I like this card a lot tbh. But it's quite vulnerable to many pings and bigger stuff, still good for early trades and split body. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -764,10 +721,10 @@
    ],
    "Masked Butcher": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "This kind of vengence trigger actually sometimes saves you. Otherwise just another mercenary drifter. ",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "This kind of vengence trigger actually sometimes saves you. Otherwise just another mercenary drifter. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -779,10 +736,10 @@
    ],
    "Mini soul devil": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "DE",
-         "FIELD5": "Basically a rabbit necromancer for Blood, worst of the evolving matters cards but still fair filler in your typical aggro curve. ",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "DE",
+         "Description": "Basically a rabbit necromancer for Blood, worst of the evolving matters cards but still fair filler in your typical aggro curve. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -794,10 +751,10 @@
    ],
    "Demonic Hedonist": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "DE",
-         "FIELD5": "Drain on low drops isn't that fancy lategame and early it doesn't help much vs most crafts (sometimes you want to be dying too). You basically get a discounted 3 drop at some point if you want or just a vanilla at worst which is still fine. Tad higher than the lilith/rain devils and nightmares you often take.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "DE",
+         "Description": "Drain on low drops isn't that fancy lategame and early it doesn't help much vs most crafts (sometimes you want to be dying too). You basically get a discounted 3 drop at some point if you want or just a vanilla at worst which is still fine. Tad higher than the lilith/rain devils and nightmares you often take.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -809,10 +766,10 @@
    ],
    "Bloodfed Flowerfield": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "Played with it quite a bit. Actually not as terrible as it looks going on the aggro plan as it's guarenteed damage even late when you draw it where you usually healthy and looking for reach. Still not great especially in the value game u are usually forced to play. You randomly kill urself too at times.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "Played with it quite a bit. Actually not as terrible as it looks going on the aggro plan as it's guarenteed damage even late when you draw it where you usually healthy and looking for reach. Still not great especially in the value game u are usually forced to play. You randomly kill urself too at times.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -824,10 +781,10 @@
    ],
    "Venomous Cobra": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "Your usually out of evolves to trade into something but still helps you maintain board if you get there when reaching vengence. ",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "Your usually out of evolves to trade into something but still helps you maintain board if you get there when reaching vengence. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -839,10 +796,10 @@
    ],
    "Mormo": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "This thing never goes off but it's deent stated on a 2 for evolves early and she's a vampire loli.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "This thing never goes off but it's deent stated on a 2 for evolves early and she's a vampire loli.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -854,10 +811,10 @@
    ],
    "Raging Giant": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "Goliath has a brother I guess. Get's a tad better when your dying but meh.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "Goliath has a brother I guess. Get's a tad better when your dying but meh.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -869,10 +826,10 @@
    ],
    "Cursebrand Vampire": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "This card coulda been really cool but it's not",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "This card coulda been really cool but it's not",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -884,10 +841,10 @@
    ],
    "Nightmare": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "Irrelavent text 9/10 but it's a followerer on 2.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "Irrelavent text 9/10 but it's a followerer on 2.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -899,10 +856,10 @@
    ],
    "Lilith ": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "Filler and random fluff that sometimes is relavent. Fun fact: I hit for like 4 off her ability once :o.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "Filler and random fluff that sometimes is relavent. Fun fact: I hit for like 4 off her ability once :o.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -914,10 +871,10 @@
    ],
    "Rain Devil": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "Great when it goes off but a bit bad when it usually doesn't.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "Great when it goes off but a bit bad when it usually doesn't.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -929,10 +886,10 @@
    ],
    "Demonhand Assassin": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "I thought we covered this card already.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "I thought we covered this card already.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -944,10 +901,10 @@
    ],
    "Devil of Vengeance": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "This card is quite a sad puppy. You will be too when you play it more often than not.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "This card is quite a sad puppy. You will be too when you play it more often than not.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -959,10 +916,10 @@
    ],
    "Demon Commander Laura": [
       {
-         "FIELD2": "C-/C",
-         "FIELD3": "30",
-         "FIELD4": "Core",
-         "FIELD5": "This card has a really neat effect and is comboey but a little too gimmicky to want to pick her for the ability. Banished to the filler pile.",
+         "Ranking": "C-/C",
+         "Score": "30",
+         "Set": "Core",
+         "Description": "This card has a really neat effect and is comboey but a little too gimmicky to want to pick her for the ability. Banished to the filler pile.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -974,10 +931,10 @@
    ],
    "Gluttonous Gorger": [
       {
-         "FIELD2": "C-/C",
-         "FIELD3": "30",
-         "FIELD4": "Core",
-         "FIELD5": "Bleh....",
+         "Ranking": "C-/C",
+         "Score": "30",
+         "Set": "Core",
+         "Description": "Bleh....",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -989,10 +946,10 @@
    ],
    "Vampiric Fortress": [
       {
-         "FIELD2": "D/C",
-         "FIELD3": "20",
-         "FIELD4": "DE",
-         "FIELD5": "Hard to get synergy in arena. Very similar to ironwrought in sword which is a borderline terrible card. This one's about the same difficulty to get online and less payoff. Take it with 3 bloodkin and some other spawners for the bs aggro draft though.",
+         "Ranking": "D/C",
+         "Score": "20",
+         "Set": "DE",
+         "Description": "Hard to get synergy in arena. Very similar to ironwrought in sword which is a borderline terrible card. This one's about the same difficulty to get online and less payoff. Take it with 3 bloodkin and some other spawners for the bs aggro draft though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1004,10 +961,10 @@
    ],
    "Limil's Way": [
       {
-         "FIELD2": "D",
-         "FIELD3": "5",
-         "FIELD4": "Core",
-         "FIELD5": "Gonna need more than a bunny girl to make me pick this.",
+         "Ranking": "D",
+         "Score": "5",
+         "Set": "Core",
+         "Description": "Gonna need more than a bunny girl to make me pick this.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1019,10 +976,10 @@
    ],
    "Demonic Sniper": [
       {
-         "FIELD2": "D",
-         "FIELD3": "5",
-         "FIELD4": "Core",
-         "FIELD5": "Insert magma rager jokes.",
+         "Ranking": "D",
+         "Score": "5",
+         "Set": "Core",
+         "Description": "Insert magma rager jokes.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1034,10 +991,10 @@
    ],
    "Geryon": [
       {
-         "FIELD2": "D",
-         "FIELD3": "5",
-         "FIELD4": "Core",
-         "FIELD5": "This card is disgusting alongside most other amulet destruction cards. He comes up a lot as filler you have to take.",
+         "Ranking": "D",
+         "Score": "5",
+         "Set": "Core",
+         "Description": "This card is disgusting alongside most other amulet destruction cards. He comes up a lot as filler you have to take.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1049,10 +1006,10 @@
    ],
    "Bloodhungry Matriarch": [
       {
-         "FIELD2": "A",
-         "FIELD3": "86",
-         "FIELD4": "RoB",
-         "FIELD5": "This seems really good, Jeanne-level",
+         "Ranking": "A",
+         "Score": "86",
+         "Set": "RoB",
+         "Description": "This seems really good, Jeanne-level",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1064,10 +1021,10 @@
    ],
    "Veight, Vampire Noble": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "RoB",
-         "FIELD5": "Great value, can bait removal",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "RoB",
+         "Description": "Great value, can bait removal",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1079,10 +1036,10 @@
    ],
    "Sadistic Night": [
       {
-         "FIELD2": "A-",
-         "FIELD3": "79",
-         "FIELD4": "RoB",
-         "FIELD5": "Needs testing but feels like a Pact with the Nethergod",
+         "Ranking": "A-",
+         "Score": "79",
+         "Set": "RoB",
+         "Description": "Needs testing but feels like a Pact with the Nethergod",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1094,10 +1051,10 @@
    ],
    "Mastema": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "RoB",
-         "FIELD5": "This card is so awkward to deal with",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "RoB",
+         "Description": "This card is so awkward to deal with",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1109,10 +1066,10 @@
    ],
    "Squall Lancer": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "RoB",
-         "FIELD5": "A decent 5 evo with possible upside",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "RoB",
+         "Description": "A decent 5 evo with possible upside",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1124,10 +1081,10 @@
    ],
    "Ice Blade Warfiend": [
       {
-         "FIELD2": "B+/A",
-         "FIELD3": "79",
-         "FIELD4": "RoB",
-         "FIELD5": "Great and faster than furiae",
+         "Ranking": "B+/A",
+         "Score": "79",
+         "Set": "RoB",
+         "Description": "Great and faster than furiae",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1139,10 +1096,10 @@
    ],
    "Flood Behemoth": [
       {
-         "FIELD2": "B+",
-         "FIELD3": "68",
-         "FIELD4": "RoB",
-         "FIELD5": "Another annoying card to deal with",
+         "Ranking": "B+",
+         "Score": "68",
+         "Set": "RoB",
+         "Description": "Another annoying card to deal with",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1154,10 +1111,10 @@
    ],
    "Yurius, Levin Duke": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "RoB",
-         "FIELD5": "Great stats, great ability.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "RoB",
+         "Description": "Great stats, great ability.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1169,10 +1126,10 @@
    ],
    "Hungering Horde": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "RoB",
-         "FIELD5": "2 for 3 is good",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "RoB",
+         "Description": "2 for 3 is good",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1184,10 +1141,10 @@
    ],
    "Alpha Wolfman": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "RoB",
-         "FIELD5": "I've had this proc against me and it was not fun",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "RoB",
+         "Description": "I've had this proc against me and it was not fun",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1199,10 +1156,10 @@
    ],
    "Moriana the Bejeweled": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "RoB",
-         "FIELD5": "The upside is enormous",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "RoB",
+         "Description": "The upside is enormous",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1214,10 +1171,10 @@
    ],
    "Executioner's Axe": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "RoB",
-         "FIELD5": "The enhance is an evo point literally, which is PP inefficient. Base spell is situational",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "RoB",
+         "Description": "The enhance is an evo point literally, which is PP inefficient. Base spell is situational",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1229,10 +1186,10 @@
    ],
    "Brazen Demoness": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "RoB",
-         "FIELD5": "The damage is hard to control, and the upside is minimal",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "RoB",
+         "Description": "The damage is hard to control, and the upside is minimal",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1244,10 +1201,10 @@
    ],
    "": [
       {
-         "FIELD2": "",
-         "FIELD3": "",
-         "FIELD4": "",
-         "FIELD5": "",
+         "Ranking": "",
+         "Score": "",
+         "Set": "",
+         "Description": "",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1259,10 +1216,10 @@
    ],
    "Neutrals": [
       {
-         "FIELD2": "",
-         "FIELD3": "",
-         "FIELD4": "",
-         "FIELD5": "",
+         "Ranking": "",
+         "Score": "",
+         "Set": "",
+         "Description": "",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1274,10 +1231,10 @@
    ],
    "Dark Angel Olivia": [
       {
-         "FIELD2": "S",
-         "FIELD3": "98",
-         "FIELD4": "DE",
-         "FIELD5": "She lets you play in an unconventional way which lets you dominate board by wasting your evos. You obviously do this with her in hand if you employ that strategy. With 2 more evo charges assumking you rush her as a 6/6 you should be able to outvalue the opponent if still around even. Late gamey like satan with the lower impact if games out of reach.",
+         "Ranking": "S",
+         "Score": "98",
+         "Set": "DE",
+         "Description": "She lets you play in an unconventional way which lets you dominate board by wasting your evos. You obviously do this with her in hand if you employ that strategy. With 2 more evo charges assumking you rush her as a 6/6 you should be able to outvalue the opponent if still around even. Late gamey like satan with the lower impact if games out of reach.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1289,10 +1246,10 @@
    ],
    "Lucifer": [
       {
-         "FIELD2": "B+/A-",
-         "FIELD3": "74",
-         "FIELD4": "Core",
-         "FIELD5": "Games can be won off of him both agressively and defensively. Helps completely stablize and also provides a threat. Awkward when you need to evolve him to trade though. But better than a lot of craft legends.",
+         "Ranking": "B+/A-",
+         "Score": "74",
+         "Set": "Core",
+         "Description": "Games can be won off of him both agressively and defensively. Helps completely stablize and also provides a threat. Awkward when you need to evolve him to trade though. But better than a lot of craft legends.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1304,10 +1261,10 @@
    ],
    "Gabriel": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "Core",
-         "FIELD5": "Awkward to land in practice and sometimes tend to be winmorish but makes a trade out of nowhere and has solid added statlines. Usually icing alongside another good gold or double legend pick.",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "Core",
+         "Description": "Awkward to land in practice and sometimes tend to be winmorish but makes a trade out of nowhere and has solid added statlines. Usually icing alongside another good gold or double legend pick.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1319,10 +1276,10 @@
    ],
    "Odin": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "DE",
-         "FIELD5": "Just a banish ability on legs. Solid lategame card with your pile. More towards filler in board reliant early game crafts similar to satan/lucifer but should be nice in those that want to go late or play value game. ",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "DE",
+         "Description": "Just a banish ability on legs. Solid lategame card with your pile. More towards filler in board reliant early game crafts similar to satan/lucifer but should be nice in those that want to go late or play value game. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1334,10 +1291,10 @@
    ],
    "Surefire Bullet": [
       {
-         "FIELD2": "B/B+",
-         "FIELD3": "65",
-         "FIELD4": "DE",
-         "FIELD5": "Kills basically everything evolved that ran into something and a neutral soul hunt without the condition which is a solid removal. I expect this to be quite common from all crafts as a high quality pick.",
+         "Ranking": "B/B+",
+         "Score": "65",
+         "Set": "DE",
+         "Description": "Kills basically everything evolved that ran into something and a neutral soul hunt without the condition which is a solid removal. I expect this to be quite common from all crafts as a high quality pick.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1349,10 +1306,10 @@
    ],
    "Athena": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "Core",
-         "FIELD5": "Make board, trade in, Blow out. less good in more spell/amulet decks ofc but in any deck that want's to be trading for board since it drops early it's quite nice.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "Core",
+         "Description": "Make board, trade in, Blow out. less good in more spell/amulet decks ofc but in any deck that want's to be trading for board since it drops early it's quite nice.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1364,10 +1321,10 @@
    ],
    "Gilgamesh": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "Core",
-         "FIELD5": "Finisher quality pick for any swarmy deck that wants a late drop that doesn't just die for free. Great for trading as a removal spell or ramming into 2/x's for profit leaving a threatening body.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "Core",
+         "Description": "Finisher quality pick for any swarmy deck that wants a late drop that doesn't just die for free. Great for trading as a removal spell or ramming into 2/x's for profit leaving a threatening body.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1379,10 +1336,10 @@
    ],
    "Humpty Dumty": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "DE",
-         "FIELD5": "Great for the crafts that want it. Think of it as a super dragon warrior that kills everything around it and itself. Or just a Lore on a stick. Terrible as a vanilla and aggro/board centric drafts though.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "DE",
+         "Description": "Great for the crafts that want it. Think of it as a super dragon warrior that kills everything around it and itself. Or just a Lore on a stick. Terrible as a vanilla and aggro/board centric drafts though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1394,10 +1351,10 @@
    ],
    "Dance Of Death": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "DE",
-         "FIELD5": "Crimson purge +1 deals damage to enemy face. Just an excecution with upside most of the time which is quite good.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "DE",
+         "Description": "Crimson purge +1 deals damage to enemy face. Just an excecution with upside most of the time which is quite good.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1409,10 +1366,10 @@
    ],
    "Healing Angel": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "Core",
-         "FIELD5": "Trades incredibly well with it's 2/3 statline and has a relavent body of text. One of the premium common's to be bundled with your picks. ",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "Core",
+         "Description": "Trades incredibly well with it's 2/3 statline and has a relavent body of text. One of the premium common's to be bundled with your picks. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1424,10 +1381,10 @@
    ],
    "Spellbook Decryption": [
       {
-         "FIELD2": "C+/B+",
-         "FIELD3": "59",
-         "FIELD4": "DE",
-         "FIELD5": "Again another later game refill card that wins topdeck wars in neutral games. Pretty bad rate but you will take alongside something good.",
+         "Ranking": "C+/B+",
+         "Score": "59",
+         "Set": "DE",
+         "Description": "Again another later game refill card that wins topdeck wars in neutral games. Pretty bad rate but you will take alongside something good.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1439,10 +1396,10 @@
    ],
    "Execution": [
       {
-         "FIELD2": "B-",
-         "FIELD3": "56",
-         "FIELD4": "Core",
-         "FIELD5": "Removal is quite nice and not too much weaker than craft specific ones. You'll want a couple damage/hard removal tools against big fatties that most crafts get access too from their gold/legend picks.",
+         "Ranking": "B-",
+         "Score": "56",
+         "Set": "Core",
+         "Description": "Removal is quite nice and not too much weaker than craft specific ones. You'll want a couple damage/hard removal tools against big fatties that most crafts get access too from their gold/legend picks.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1454,10 +1411,10 @@
    ],
    "Goblinmount Demon": [
       {
-         "FIELD2": "C+/B",
-         "FIELD3": "53",
-         "FIELD4": "Core",
-         "FIELD5": "Similar to constructed where you want to play tis in a controlling deck as it's kinda awkward in a board control follower based deck which you tend to draft. Still premium stats are nice and can usually make up for trading your board in to something moderate while estabilishing this.",
+         "Ranking": "C+/B",
+         "Score": "53",
+         "Set": "Core",
+         "Description": "Similar to constructed where you want to play tis in a controlling deck as it's kinda awkward in a board control follower based deck which you tend to draft. Still premium stats are nice and can usually make up for trading your board in to something moderate while estabilishing this.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1469,10 +1426,10 @@
    ],
    "Harnessed Glass": [
       {
-         "FIELD2": "C/B",
-         "FIELD3": "50",
-         "FIELD4": "Core",
-         "FIELD5": "Actually passable when evolving and hits like a 4/4 with aoe very similar to a necroelementalist for neutral when it works. Usually u can guage it and save it for surprise aoe or just drop it on a decent board and have it soak removal or it can skew tons of trades.",
+         "Ranking": "C/B",
+         "Score": "50",
+         "Set": "Core",
+         "Description": "Actually passable when evolving and hits like a 4/4 with aoe very similar to a necroelementalist for neutral when it works. Usually u can guage it and save it for surprise aoe or just drop it on a decent board and have it soak removal or it can skew tons of trades.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1484,10 +1441,10 @@
    ],
    "Demonic Strike": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "Core",
-         "FIELD5": "Neutral Removal and Reach. Tends to be filler alongside a playable but is quite potent. Helps you trade without an evo against awkward 8/2's that threaten board, manages trading boards to your favor and is a solid enough draw late game.",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "Core",
+         "Description": "Neutral Removal and Reach. Tends to be filler alongside a playable but is quite potent. Helps you trade without an evo against awkward 8/2's that threaten board, manages trading boards to your favor and is a solid enough draw late game.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1499,10 +1456,10 @@
    ],
    "Shield Angel": [
       {
-         "FIELD2": "C/B-",
-         "FIELD3": "47",
-         "FIELD4": "Core",
-         "FIELD5": "Depends on the deck for this one. You can draft a anti early game with 1/3's 2/3's and this and have quite a good time vs early drops. Big enough late to soak damage while not dying to low drops right away and small to deter removal. Still filleresque.",
+         "Ranking": "C/B-",
+         "Score": "47",
+         "Set": "Core",
+         "Description": "Depends on the deck for this one. You can draft a anti early game with 1/3's 2/3's and this and have quite a good time vs early drops. Big enough late to soak damage while not dying to low drops right away and small to deter removal. Still filleresque.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1514,10 +1471,10 @@
    ],
    "Lizardman": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "Not winning you the game but the double ward evo is relavent if your getting zooed down and stablizing late and the stats + ability is solid at all parts of the game. Solid pick alongside another playable uncommon.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "Not winning you the game but the double ward evo is relavent if your getting zooed down and stablizing late and the stats + ability is solid at all parts of the game. Solid pick alongside another playable uncommon.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1529,10 +1486,10 @@
    ],
    "Goliath": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "You need some 4's especially going first if you don't go deep in 2 drops. Sometimes you don't get a lot of class specific ones or need something to drop without wasting an evo charge. This fits the bill and is solid enough.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "You need some 4's especially going first if you don't go deep in 2 drops. Sometimes you don't get a lot of class specific ones or need something to drop without wasting an evo charge. This fits the bill and is solid enough.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1544,10 +1501,10 @@
    ],
    "Angelic Sword Maiden": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "Some crafts are missing a good 5 drop, This is one that can fill in the slot and gives solid enough 2 for 1's with an evolve charge. Not too great without one and a tad less impactful lategame vs strong fatties.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "Some crafts are missing a good 5 drop, This is one that can fill in the slot and gives solid enough 2 for 1's with an evolve charge. Not too great without one and a tad less impactful lategame vs strong fatties.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1559,10 +1516,10 @@
    ],
    "Unicorn Dancer Unica": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "DE",
-         "FIELD5": "Solid filler does a little more for lategame crafts and blood sometimes since it soaks up 2 damage either through forcing a manditory trade or her heal passive. Also would eat bread with her.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "DE",
+         "Description": "Solid filler does a little more for lategame crafts and blood sometimes since it soaks up 2 damage either through forcing a manditory trade or her heal passive. Also would eat bread with her.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1574,10 +1531,10 @@
    ],
    "Imperial Mammoth": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "DE",
-         "FIELD5": "Just a vanilla fatty for the filler. Dominates many post evolve boards and gives everycraft a dragon quality fatty. ",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "DE",
+         "Description": "Just a vanilla fatty for the filler. Dominates many post evolve boards and gives everycraft a dragon quality fatty. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1589,10 +1546,10 @@
    ],
    "Wind God": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "Core",
-         "FIELD5": "Tends to be passable in any follower based draft. Big enough with an evolve and relavent buffs. Quite a bit better the closer you draft a constucted sword, shadow, blood, fairy etc agrro list.",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "Core",
+         "Description": "Tends to be passable in any follower based draft. Big enough with an evolve and relavent buffs. Quite a bit better the closer you draft a constucted sword, shadow, blood, fairy etc agrro list.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1604,10 +1561,10 @@
    ],
    "Archangel Reina": [
       {
-         "FIELD2": "C-/B-",
-         "FIELD3": "39",
-         "FIELD4": "DE",
-         "FIELD5": "Explosive effect and you blitz people out of weenies like 4 sword knights or fairies. Too much win more I feel but you will pick this every few piles she's offered and she can do some work with even just 1 evolve giving a pseudo anthem boost to team.",
+         "Ranking": "C-/B-",
+         "Score": "39",
+         "Set": "DE",
+         "Description": "Explosive effect and you blitz people out of weenies like 4 sword knights or fairies. Too much win more I feel but you will pick this every few piles she's offered and she can do some work with even just 1 evolve giving a pseudo anthem boost to team.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1619,10 +1576,10 @@
    ],
    "Fighter ": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "Vanilla but gets the job done as an early drop if you need it.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "Vanilla but gets the job done as an early drop if you need it.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1634,10 +1591,10 @@
    ],
    "Cloud Chorus": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "A bit more exciting than it's attack gain twin as it lets you save your creature in a trade acting as a \"fight\" sort of removal spell. Unfortunately not on a body like the Fencers and Gabriels of the game. Never pick this over onther P2 of strong spells/creatures.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "A bit more exciting than it's attack gain twin as it lets you save your creature in a trade acting as a \"fight\" sort of removal spell. Unfortunately not on a body like the Fencers and Gabriels of the game. Never pick this over onther P2 of strong spells/creatures.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1649,10 +1606,10 @@
    ],
    "Angelic Barrage": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "Core",
-         "FIELD5": "It tends to be a bit better a ping lategame than snipe as 3 vs 1 mana late game isn't as much and the spread obviously skews trades a lot. Hits some of the popular crafts hard and it alongside a solid curve can keep the board undercontrol.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "Core",
+         "Description": "It tends to be a bit better a ping lategame than snipe as 3 vs 1 mana late game isn't as much and the spread obviously skews trades a lot. Hits some of the popular crafts hard and it alongside a solid curve can keep the board undercontrol.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1664,10 +1621,10 @@
    ],
    "Raging Ettin": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "DE",
-         "FIELD5": "1 mana understated but a lovable ability later in the game for most crafts and fair for a neutral.",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "DE",
+         "Description": "1 mana understated but a lovable ability later in the game for most crafts and fair for a neutral.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1679,10 +1636,10 @@
    ],
    "Goblin": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "Filler alongside quality card or emergancy earlygame slot late in draft. 1/2's for 1 are good enough for a low curving deck though to fight board from the start.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "Filler alongside quality card or emergancy earlygame slot late in draft. 1/2's for 1 are good enough for a low curving deck though to fight board from the start.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1694,10 +1651,10 @@
    ],
    "Angelic Snipe": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "Ping is good and flexible in Arena where you can fill in a curve and make a good trade without evolving, not better than most uncommons offered though.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "Ping is good and flexible in Arena where you can fill in a curve and make a good trade without evolving, not better than most uncommons offered though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1709,10 +1666,10 @@
    ],
    "Minotaur": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "A bit underwhelming early but low drop ward late helps make board awkward later. Not great with tokenmakers and pings.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "A bit underwhelming early but low drop ward late helps make board awkward later. Not great with tokenmakers and pings.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1724,10 +1681,10 @@
    ],
    "Mercenary Drifter": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "Not as good as a 3/2 body but it gives you a 3 drop if your curve needs filling. Nothing fancy but will save your curve early sometimes.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "Not as good as a 3/2 body but it gives you a 3 drop if your curve needs filling. Nothing fancy but will save your curve early sometimes.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1739,10 +1696,10 @@
    ],
    "Desert Rider": [
       {
-         "FIELD2": "C",
-         "FIELD3": "35",
-         "FIELD4": "Core",
-         "FIELD5": "A bit worse statling than Goliath unless your drafting heavy aggro but trades into bigger stuff a bit better. Dies to a couple more removals but not a real factor to consider when drafting. About the same strength a bit to goliath in general but nice fillers to your 4 drop.",
+         "Ranking": "C",
+         "Score": "35",
+         "Set": "Core",
+         "Description": "A bit worse statling than Goliath unless your drafting heavy aggro but trades into bigger stuff a bit better. Dies to a couple more removals but not a real factor to consider when drafting. About the same strength a bit to goliath in general but nice fillers to your 4 drop.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1754,10 +1711,10 @@
    ],
    "Keen Enchantment": [
       {
-         "FIELD2": "C-",
-         "FIELD3": "25",
-         "FIELD4": "Core",
-         "FIELD5": "Cerberus puppet barely worth the card but helps trade without an evolve at times. Mainly only good when ahead and sets u back a card when catching up with a trade. ",
+         "Ranking": "C-",
+         "Score": "25",
+         "Set": "Core",
+         "Description": "Cerberus puppet barely worth the card but helps trade without an evolve at times. Mainly only good when ahead and sets u back a card when catching up with a trade. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1769,10 +1726,10 @@
    ],
    "Well of Destiny": [
       {
-         "FIELD2": "C-",
-         "FIELD3": "25",
-         "FIELD4": "Core",
-         "FIELD5": "It's not great but almost servicable filler. Quite win more but when it gets going like in a mirror match some trades can end up skewed. Still not worth drafting unless u get like 15 1 drops in sword.",
+         "Ranking": "C-",
+         "Score": "25",
+         "Set": "Core",
+         "Description": "It's not great but almost servicable filler. Quite win more but when it gets going like in a mirror match some trades can end up skewed. Still not worth drafting unless u get like 15 1 drops in sword.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1784,10 +1741,10 @@
    ],
    "Urd": [
       {
-         "FIELD2": "C-",
-         "FIELD3": "25",
-         "FIELD4": "Core",
-         "FIELD5": "You need like 8 cute things to do with this before it's consistant. A bit understated but still servicable. Reseting followers is also a good perc. Potential alongside another servicable rare/legend but she wouldn't be my drawing factor to that pile. ",
+         "Ranking": "C-",
+         "Score": "25",
+         "Set": "Core",
+         "Description": "You need like 8 cute things to do with this before it's consistant. A bit understated but still servicable. Reseting followers is also a good perc. Potential alongside another servicable rare/legend but she wouldn't be my drawing factor to that pile. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1799,10 +1756,10 @@
    ],
    "Harnessed Flame": [
       {
-         "FIELD2": "C-",
-         "FIELD3": "25",
-         "FIELD4": "Core",
-         "FIELD5": "Only pick this if your getting something godly in the pile or the other one is garbage. U can also consider it in a super aggro draft that has 15+ 1/2 drops.",
+         "Ranking": "C-",
+         "Score": "25",
+         "Set": "Core",
+         "Description": "Only pick this if your getting something godly in the pile or the other one is garbage. U can also consider it in a super aggro draft that has 15+ 1/2 drops.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1814,10 +1771,10 @@
    ],
    "Bellringer Angel": [
       {
-         "FIELD2": "D+/C-",
-         "FIELD3": "20",
-         "FIELD4": "Core",
-         "FIELD5": "The card itself could just be a better uncommon unless its drafted beside something premium. On 2 it pushes you back on tempo and only helps wall board later. Replacing itself isn't as strong in lower card quality and inconsistancy of arena.",
+         "Ranking": "D+/C-",
+         "Score": "20",
+         "Set": "Core",
+         "Description": "The card itself could just be a better uncommon unless its drafted beside something premium. On 2 it pushes you back on tempo and only helps wall board later. Replacing itself isn't as strong in lower card quality and inconsistancy of arena.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1829,10 +1786,10 @@
    ],
    "Prince of Darkness": [
       {
-         "FIELD2": "D+/C-",
-         "FIELD3": "20",
-         "FIELD4": "Core",
-         "FIELD5": "Some games effectively end at turn 5 where he rots in your hand/deck. Other's in 15. Most decks want the effect late but sometimes you wish he was a fire lizard in your dragoncraft or something. Not as auto pick for me but quite tempting alongside something else good. ",
+         "Ranking": "D+/C-",
+         "Score": "20",
+         "Set": "Core",
+         "Description": "Some games effectively end at turn 5 where he rots in your hand/deck. Other's in 15. Most decks want the effect late but sometimes you wish he was a fire lizard in your dragoncraft or something. Not as auto pick for me but quite tempting alongside something else good. ",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1844,10 +1801,10 @@
    ],
    "Angel Crusher": [
       {
-         "FIELD2": "D-/C",
-         "FIELD3": "15",
-         "FIELD4": "Core",
-         "FIELD5": "Not worth it, vanilla + a bit when put out with an empty hand but takes up a 6(kinda) slot and rots in ur hand when you might need to drop something.",
+         "Ranking": "D-/C",
+         "Score": "15",
+         "Set": "Core",
+         "Description": "Not worth it, vanilla + a bit when put out with an empty hand but takes up a 6(kinda) slot and rots in ur hand when you might need to drop something.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1859,10 +1816,10 @@
    ],
    "Trail of Light": [
       {
-         "FIELD2": "D/D+",
-         "FIELD3": "10",
-         "FIELD4": "Core",
-         "FIELD5": "Unexciting cycle but unlike bellringer gets the card right away which a bit is more useful lategame.  Early game this is much worse to have though.",
+         "Ranking": "D/D+",
+         "Score": "10",
+         "Set": "Core",
+         "Description": "Unexciting cycle but unlike bellringer gets the card right away which a bit is more useful lategame.  Early game this is much worse to have though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1874,10 +1831,10 @@
    ],
    "Altered Fate": [
       {
-         "FIELD2": "D-",
-         "FIELD3": "2",
-         "FIELD4": "Core",
-         "FIELD5": "Some cool stuff to do midgame but sets youback tempo on critical turns that you should be dropping something midrange or 2 low drops. Useless lategame and no combos to draw into in Arena. Also your other rare has to be amazing or have terrible cards in the other P2.",
+         "Ranking": "D-",
+         "Score": "2",
+         "Set": "Core",
+         "Description": "Some cool stuff to do midgame but sets youback tempo on critical turns that you should be dropping something midrange or 2 low drops. Useless lategame and no combos to draw into in Arena. Also your other rare has to be amazing or have terrible cards in the other P2.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1889,10 +1846,10 @@
    ],
    "Path to Purgatory ": [
       {
-         "FIELD2": "D-",
-         "FIELD3": "2",
-         "FIELD4": "Core",
-         "FIELD5": "Maybe if you get this with an altered fate in fairy P2 to make people think they in constructed. But yah no.",
+         "Ranking": "D-",
+         "Score": "2",
+         "Set": "Core",
+         "Description": "Maybe if you get this with an altered fate in fairy P2 to make people think they in constructed. But yah no.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1904,10 +1861,10 @@
    ],
    "Demonic Simulacrum": [
       {
-         "FIELD2": "D-",
-         "FIELD3": "2",
-         "FIELD4": "DE",
-         "FIELD5": "Worse than Ding Dong. Super Win more and not waifu.",
+         "Ranking": "D-",
+         "Score": "2",
+         "Set": "DE",
+         "Description": "Worse than Ding Dong. Super Win more and not waifu.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1919,10 +1876,10 @@
    ],
    "Fortunehunter Feena": [
       {
-         "FIELD2": "A",
-         "FIELD3": "86",
-         "FIELD4": "RoB",
-         "FIELD5": "One of the greatest 5 drop evos of all time, I would say this is an amazing card.",
+         "Ranking": "A",
+         "Score": "86",
+         "Set": "RoB",
+         "Description": "One of the greatest 5 drop evos of all time, I would say this is an amazing card.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1934,10 +1891,10 @@
    ],
    "Bahamut": [
       {
-         "FIELD2": "A",
-         "FIELD3": "86",
-         "FIELD4": "RoB",
-         "FIELD5": "Board clear + best body in game is amazing, the question is will the game go long enough.",
+         "Ranking": "A",
+         "Score": "86",
+         "Set": "RoB",
+         "Description": "Board clear + best body in game is amazing, the question is will the game go long enough.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1949,10 +1906,10 @@
    ],
    "Gourmet Emporor Khaiza": [
       {
-         "FIELD2": "A-",
-         "FIELD3": "79",
-         "FIELD4": "RoB",
-         "FIELD5": "Haven't drafted one yet but I have high hopes for this card, as it should generate insane card advantage. Might be too slow for TT though.",
+         "Ranking": "A-",
+         "Score": "79",
+         "Set": "RoB",
+         "Description": "Haven't drafted one yet but I have high hopes for this card, as it should generate insane card advantage. Might be too slow for TT though.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1964,10 +1921,10 @@
    ],
    "Goblin Mage": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "RoB",
-         "FIELD5": "Maintaining tempo with instant draw, this seems pretty strong. Comparative to Thief.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "RoB",
+         "Description": "Maintaining tempo with instant draw, this seems pretty strong. Comparative to Thief.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1979,10 +1936,10 @@
    ],
    "Goblinbreaker Teena": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "RoB",
-         "FIELD5": "A worse dragon warrior, 2 vs 3 is a pretty big deal. Still great filler though, especially for crafts lacking in 4s",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "RoB",
+         "Description": "A worse dragon warrior, 2 vs 3 is a pretty big deal. Still great filler though, especially for crafts lacking in 4s",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -1994,10 +1951,10 @@
    ],
    "Lucius, Goblin Slayer": [
       {
-         "FIELD2": "B",
-         "FIELD3": "62",
-         "FIELD4": "RoB",
-         "FIELD5": "Counters sword, the most dominant craft in TT, so this should be pretty good.",
+         "Ranking": "B",
+         "Score": "62",
+         "Set": "RoB",
+         "Description": "Counters sword, the most dominant craft in TT, so this should be pretty good.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2009,10 +1966,10 @@
    ],
    "Call of Cocytus": [
       {
-         "FIELD2": "B-/B",
-         "FIELD3": "59",
-         "FIELD4": "RoB",
-         "FIELD5": "I'm going to put this under DoD for now as the upside is good but slow.",
+         "Ranking": "B-/B",
+         "Score": "59",
+         "Set": "RoB",
+         "Description": "I'm going to put this under DoD for now as the upside is good but slow.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2024,10 +1981,10 @@
    ],
    "Hamsa": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "RoB",
-         "FIELD5": "This seems pretty good, should be a reliable 2/2 with big upside.",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "RoB",
+         "Description": "This seems pretty good, should be a reliable 2/2 with big upside.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2039,10 +1996,10 @@
    ],
    "Angel of the Word": [
       {
-         "FIELD2": "C+/B-",
-         "FIELD3": "50",
-         "FIELD4": "RoB",
-         "FIELD5": "Comparable to Fire Lizard, the ping is worth at least 1.",
+         "Ranking": "C+/B-",
+         "Score": "50",
+         "Set": "RoB",
+         "Description": "Comparable to Fire Lizard, the ping is worth at least 1.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2054,10 +2011,10 @@
    ],
    "Lyrial, Celestial Archer": [
       {
-         "FIELD2": "C+",
-         "FIELD3": "43",
-         "FIELD4": "RoB",
-         "FIELD5": "Fighter with an upside",
+         "Ranking": "C+",
+         "Score": "43",
+         "Set": "RoB",
+         "Description": "Fighter with an upside",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2069,10 +2026,10 @@
    ],
    "Sektor": [
       {
-         "FIELD2": "C/C+",
-         "FIELD3": "39",
-         "FIELD4": "RoB",
-         "FIELD5": "Way too situational",
+         "Ranking": "C/C+",
+         "Score": "39",
+         "Set": "RoB",
+         "Description": "Way too situational",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2084,10 +2041,10 @@
    ],
    "Uriel": [
       {
-         "FIELD2": "D+/C-",
-         "FIELD3": "20",
-         "FIELD4": "RoB",
-         "FIELD5": "Very situational, bad stats otherwise.",
+         "Ranking": "D+/C-",
+         "Score": "20",
+         "Set": "RoB",
+         "Description": "Very situational, bad stats otherwise.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2099,10 +2056,10 @@
    ],
    "Sahaquiel": [
       {
-         "FIELD2": "D+/C-",
-         "FIELD3": "20",
-         "FIELD4": "RoB",
-         "FIELD5": "I've drafted this and it was quite underwhelming honestly. There aren't enough neutrals for this to proc usefully, making this a 7 mana 4/4 a lot of the time.",
+         "Ranking": "D+/C-",
+         "Score": "20",
+         "Set": "RoB",
+         "Description": "I've drafted this and it was quite underwhelming honestly. There aren't enough neutrals for this to proc usefully, making this a 7 mana 4/4 a lot of the time.",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
@@ -2114,10 +2071,10 @@
    ],
    "Valkyrie's Spear": [
       {
-         "FIELD2": "D",
-         "FIELD3": "5",
-         "FIELD4": "RoB",
-         "FIELD5": "Significantly worse than Well of Destiny and that is a pretty bad card",
+         "Ranking": "D",
+         "Score": "5",
+         "Set": "RoB",
+         "Description": "Significantly worse than Well of Destiny and that is a pretty bad card",
          "FIELD6": "",
          "FIELD7": "",
          "FIELD8": "",
