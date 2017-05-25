@@ -1,3 +1,28 @@
 li {
   list-style: none;
 }
+
+.search-input{
+  width: 219px;
+}
+
+.search-results {
+  width: 225px;
+  color: white;
+  height: 30vh;
+  overflow-y: scroll;
+}
+
+.search-results li{
+  text-align: center;
+  background-color: #867951;
+}
+
+.clickable:hover{
+  cursor: pointer;
+}
+
+.search-results li:hover{
+  background-color: #fcf1f4;
+  color: black;
+}

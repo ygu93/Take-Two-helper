@@ -24,6 +24,10 @@ export class AppComponent {
     });
   }
 
+  resetClass() {
+    this.class = null;
+  }
+
 
 
 }
