@@ -44,7 +44,7 @@ time, mark, audio, video {
 }
 
 .app-title > div {
-  border-bottom: 2px solid gold;
+  border-bottom: 2px solid #e1d09a;
   width: 300px;
   text-indent: 8px;
 }
@@ -60,11 +60,16 @@ time, mark, audio, video {
 .header{
 	display: flex;
 	justify-content: flex-start;
+	padding-top: 15px;
 }
 
 .back-button{
 	display: flex;
 	justify-content: flex-start;
+}
+
+.back-button:hover{
+	cursor: pointer;
 }
 
 .back-left{
@@ -76,12 +81,28 @@ time, mark, audio, video {
 }
 
 
-.back-right{
+.back-middle{
 	background-color: #86a660;
 	color: white;
 	padding: 10px;
 	border: 1px solid #666256;
 	border-left: none;
+	border-right: none;
+	padding-left: 25px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	font-size: 20px;
+}
+
+.back-right{
+	margin-top: 16px;
+	transform: rotate(90deg);
+	border-bottom: 11px solid #86a660;
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	height: 0px;
+	width: 29px;
+	margin-left: -18px;
 }
 
 
