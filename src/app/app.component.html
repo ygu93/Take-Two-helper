@@ -1,8 +1,13 @@
 <div class='app'>
-  <h1 class= 'app-title'>
-    <div *ngIf="class" (click)="resetClass()">Back</div>
-    <div>Take Two</div>
-  </h1>
+  <div class="header">
+    <div class="back-button" *ngIf="class" (click)="resetClass()">
+      <div class="back-left"></div>
+      <div class="back-right">Back</div>
+    </div>
+    <h1 class= 'app-title'>
+      <div>Take Two</div>
+    </h1>
+  </div>
 
   <app-select-class
     (getClass)="getClass($event)"
