@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { SelectClassComponent } from './select-class/select-class.component';
 import { CardComparatorComponent } from './card-comparator/card-comparator.component';
 import { SearchComponent } from './search/search.component';
+import { CardDetailsComponent } from './card-details/card-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SelectClassComponent,
     CardComparatorComponent,
-    SearchComponent
+    SearchComponent,
+    CardDetailsComponent
   ],
   imports: [
     BrowserModule,

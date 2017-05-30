@@ -2,7 +2,9 @@
       class="search-input"
       #term="ngModel"
       (keyup)="debounce(search(term.value),1000)"
-      placeholder="Search for a card..."/>
-<ul *ngIf="query" class="search-results">
-  <li *ngFor="let card of result" class="clickable">{{card}}</li>
+      placeholder="Search for a card..."
+      *ngIf="!selectedCard"/>
+<ul *ngIf="query && !selectedCard" class="search-results">
+  <li *ngFor="let card of result" class="clickable" (click)="select(card)">{{card}}</li>
 </ul>
+<app-card-details *ngIf="selectedCard" [card]="selectedCard"></app-card-details>
