@@ -1,5 +1,5 @@
 {
-   "Merlin": [
+   "Merlin":
       {
          "Ranking": "A+",
          "Score": "95",
@@ -13,8 +13,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Witchbolt": [
+   ,
+   "Witchbolt":
       {
          "Ranking": "A",
          "Score": "86",
@@ -28,8 +28,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Alchemist's Lore": [
+   ,
+   "Alchemist's Lore":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -43,8 +43,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Arch Summoner": [
+   ,
+   "Arch Summoner":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -58,8 +58,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Timeworn Mage Levi": [
+   ,
+   "Timeworn Mage Levi":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -73,8 +73,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Remi/Rami": [
+   ,
+   "Remi/Rami":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -88,8 +88,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "First Curse": [
+   ,
+   "First Curse":
       {
          "Ranking": "B/A",
          "Score": "74",
@@ -103,8 +103,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Juno's Secret Laboratory": [
+   ,
+   "Juno's Secret Laboratory":
       {
          "Ranking": "B/A",
          "Score": "74",
@@ -118,8 +118,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Calamitous Curse": [
+   ,
+   "Calamitous Curse":
       {
          "Ranking": "B/A",
          "Score": "74",
@@ -133,8 +133,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Wind Blast": [
+   ,
+   "Wind Blast":
       {
          "Ranking": "B-/A",
          "Score": "71",
@@ -148,8 +148,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Runic Guardian": [
+   ,
+   "Runic Guardian":
       {
          "Ranking": "B",
          "Score": "62",
@@ -163,8 +163,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Spectral Wizard": [
+   ,
+   "Spectral Wizard":
       {
          "Ranking": "B",
          "Score": "62",
@@ -178,8 +178,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Petrification": [
+   ,
+   "Petrification":
       {
          "Ranking": "B",
          "Score": "62",
@@ -193,8 +193,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Price of Magic": [
+   ,
+   "Price of Magic":
       {
          "Ranking": "B",
          "Score": "62",
@@ -208,8 +208,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonflame Mage": [
+   ,
+   "Demonflame Mage":
       {
          "Ranking": "B",
          "Score": "62",
@@ -223,8 +223,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lightning shooter": [
+   ,
+   "Lightning shooter":
       {
          "Ranking": "B",
          "Score": "62",
@@ -238,8 +238,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Winter Caprice": [
+   ,
+   "Winter Caprice":
       {
          "Ranking": "B",
          "Score": "62",
@@ -253,8 +253,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Red-Hot Ritual": [
+   ,
+   "Red-Hot Ritual":
       {
          "Ranking": "B",
          "Score": "62",
@@ -268,8 +268,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Grand Gargoyle": [
+   ,
+   "Grand Gargoyle":
       {
          "Ranking": "B",
          "Score": "62",
@@ -283,8 +283,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gem Golem": [
+   ,
+   "Gem Golem":
       {
          "Ranking": "B-/B+",
          "Score": "62",
@@ -298,8 +298,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gauntleted Healer": [
+   ,
+   "Gauntleted Healer":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -313,8 +313,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Flame Witch": [
+   ,
+   "Flame Witch":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -328,8 +328,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fates Hand": [
+   ,
+   "Fates Hand":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -343,8 +343,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sun Oracle Pascal": [
+   ,
+   "Sun Oracle Pascal":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -358,8 +358,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Rimewind": [
+   ,
+   "Rimewind":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -373,8 +373,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Penguin Wizard": [
+   ,
+   "Penguin Wizard":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -388,8 +388,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fissure Bomb": [
+   ,
+   "Fissure Bomb":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -403,8 +403,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Alchemist's Workshop": [
+   ,
+   "Alchemist's Workshop":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -418,8 +418,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Conjure golem": [
+   ,
+   "Conjure golem":
       {
          "Ranking": "C+/B",
          "Score": "53",
@@ -433,8 +433,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Insight": [
+   ,
+   "Insight":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -448,8 +448,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Apprentice Alchemist": [
+   ,
+   "Apprentice Alchemist":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -463,8 +463,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Kaleidoscopic Glow": [
+   ,
+   "Kaleidoscopic Glow":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -478,8 +478,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Summon Snow": [
+   ,
+   "Summon Snow":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -493,8 +493,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Queen Medb": [
+   ,
+   "Queen Medb":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -508,8 +508,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fire Chain": [
+   ,
+   "Fire Chain":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -523,8 +523,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Witchcrafter Magisa": [
+   ,
+   "Witchcrafter Magisa":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -538,8 +538,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fiery Embrace": [
+   ,
+   "Fiery Embrace":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -553,8 +553,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Mythil Golem": [
+   ,
+   "Mythil Golem":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -568,8 +568,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Flame Destroyer": [
+   ,
+   "Flame Destroyer":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -583,8 +583,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Ancient Alchemist": [
+   ,
+   "Ancient Alchemist":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -598,8 +598,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Veteran Alchemist": [
+   ,
+   "Veteran Alchemist":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -613,8 +613,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Conjure Twosome": [
+   ,
+   "Conjure Twosome":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -628,8 +628,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Spurned Witch": [
+   ,
+   "Spurned Witch":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -643,8 +643,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Twin Guardians": [
+   ,
+   "Twin Guardians":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -658,8 +658,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Crafty Warlock": [
+   ,
+   "Crafty Warlock":
       {
          "Ranking": "C/B-",
          "Score": "47",
@@ -673,8 +673,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Magic Missile": [
+   ,
+   "Magic Missile":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -688,8 +688,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Master Alchemist": [
+   ,
+   "Master Alchemist":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -703,8 +703,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Crystal Bomba": [
+   ,
+   "Crystal Bomba":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -718,8 +718,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Scholary Witch": [
+   ,
+   "Scholary Witch":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -733,8 +733,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Crest Wizard": [
+   ,
+   "Crest Wizard":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -748,8 +748,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Rune Blade Summoner": [
+   ,
+   "Rune Blade Summoner":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -763,8 +763,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Scrap Iron Smelter": [
+   ,
+   "Scrap Iron Smelter":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -778,8 +778,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sammy, Wizard's Apprentice": [
+   ,
+   "Sammy, Wizard's Apprentice":
       {
          "Ranking": "C",
          "Score": "35",
@@ -793,8 +793,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Teachings of Creation": [
+   ,
+   "Teachings of Creation":
       {
          "Ranking": "C",
          "Score": "35",
@@ -808,8 +808,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sorcery Cache": [
+   ,
+   "Sorcery Cache":
       {
          "Ranking": "C",
          "Score": "35",
@@ -823,8 +823,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Elementary Academy": [
+   ,
+   "Elementary Academy":
       {
          "Ranking": "C",
          "Score": "35",
@@ -838,8 +838,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Whirlwind mage": [
+   ,
+   "Whirlwind mage":
       {
          "Ranking": "C",
          "Score": "35",
@@ -853,8 +853,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dragonbond Mage": [
+   ,
+   "Dragonbond Mage":
       {
          "Ranking": "C",
          "Score": "35",
@@ -868,8 +868,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Shadow Witch": [
+   ,
+   "Shadow Witch":
       {
          "Ranking": "C",
          "Score": "35",
@@ -883,8 +883,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Multipart Experiment": [
+   ,
+   "Multipart Experiment":
       {
          "Ranking": "C",
          "Score": "35",
@@ -898,8 +898,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Witchette Emmylou": [
+   ,
+   "Witchette Emmylou":
       {
          "Ranking": "C",
          "Score": "35",
@@ -913,8 +913,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Golem Protection": [
+   ,
+   "Golem Protection":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -928,8 +928,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Summon Iceform": [
+   ,
+   "Summon Iceform":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -943,8 +943,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Commence Experiment": [
+   ,
+   "Commence Experiment":
       {
          "Ranking": "D/C",
          "Score": "20",
@@ -958,8 +958,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Arcane Enlightenment": [
+   ,
+   "Arcane Enlightenment":
       {
          "Ranking": "D",
          "Score": "5",
@@ -973,8 +973,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dimensional Shift": [
+   ,
+   "Dimensional Shift":
       {
          "Ranking": "D",
          "Score": "5",
@@ -988,8 +988,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Conjuring Force": [
+   ,
+   "Conjuring Force":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1003,8 +1003,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Secrets of Erasmus": [
+   ,
+   "Secrets of Erasmus":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1018,8 +1018,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Professor of Taboos": [
+   ,
+   "Professor of Taboos":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1033,8 +1033,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Daria, Dimensional Witch": [
+   ,
+   "Daria, Dimensional Witch":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1048,8 +1048,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Anne, Belle of Mysteria": [
+   ,
+   "Anne, Belle of Mysteria":
       {
          "Ranking": "B+/A-",
          "Score": "74",
@@ -1063,8 +1063,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dwarf Alchemist": [
+   ,
+   "Dwarf Alchemist":
       {
          "Ranking": "B+",
          "Score": "68",
@@ -1078,8 +1078,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Rite of Exorcism": [
+   ,
+   "Rite of Exorcism":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1093,8 +1093,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Disaster Witch": [
+   ,
+   "Disaster Witch":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1108,8 +1108,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Timeless Witch": [
+   ,
+   "Timeless Witch":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -1123,8 +1123,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Clarke, Arcane Scholar": [
+   ,
+   "Clarke, Arcane Scholar":
       {
          "Ranking": "C/B-",
          "Score": "47",
@@ -1138,8 +1138,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Piercing Rune": [
+   ,
+   "Piercing Rune":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1153,8 +1153,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Ogler": [
+   ,
+   "Ogler":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1168,8 +1168,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Craig, Wizard of Mysteria": [
+   ,
+   "Craig, Wizard of Mysteria":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1183,8 +1183,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Blade Mage": [
+   ,
+   "Blade Mage":
       {
          "Ranking": "D-/C",
          "Score": "15",
@@ -1198,8 +1198,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "": [
+   ,
+   "":
       {
          "Ranking": "",
          "Score": "",
@@ -1213,8 +1213,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Neutrals": [
+   ,
+   "Neutrals":
       {
          "Ranking": "",
          "Score": "",
@@ -1228,8 +1228,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dark Angel Olivia": [
+   ,
+   "Dark Angel Olivia":
       {
          "Ranking": "S",
          "Score": "98",
@@ -1243,8 +1243,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lucifer": [
+   ,
+   "Lucifer":
       {
          "Ranking": "B+/A-",
          "Score": "74",
@@ -1258,8 +1258,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gabriel": [
+   ,
+   "Gabriel":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1273,8 +1273,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Odin": [
+   ,
+   "Odin":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1288,8 +1288,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Surefire Bullet": [
+   ,
+   "Surefire Bullet":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1303,8 +1303,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Athena": [
+   ,
+   "Athena":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1318,8 +1318,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gilgamesh": [
+   ,
+   "Gilgamesh":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1333,8 +1333,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Humpty Dumty": [
+   ,
+   "Humpty Dumty":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1348,8 +1348,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dance Of Death": [
+   ,
+   "Dance Of Death":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1363,8 +1363,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Healing Angel": [
+   ,
+   "Healing Angel":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1378,8 +1378,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Spellbook Decryption": [
+   ,
+   "Spellbook Decryption":
       {
          "Ranking": "C+/B+",
          "Score": "59",
@@ -1393,8 +1393,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Execution": [
+   ,
+   "Execution":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -1408,8 +1408,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblinmount Demon": [
+   ,
+   "Goblinmount Demon":
       {
          "Ranking": "C+/B",
          "Score": "53",
@@ -1423,8 +1423,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Harnessed Glass": [
+   ,
+   "Harnessed Glass":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -1438,8 +1438,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Strike": [
+   ,
+   "Demonic Strike":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -1453,8 +1453,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Shield Angel": [
+   ,
+   "Shield Angel":
       {
          "Ranking": "C/B-",
          "Score": "47",
@@ -1468,8 +1468,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lizardman": [
+   ,
+   "Lizardman":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1483,8 +1483,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goliath": [
+   ,
+   "Goliath":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1498,8 +1498,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angelic Sword Maiden": [
+   ,
+   "Angelic Sword Maiden":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1513,8 +1513,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Unicorn Dancer Unica": [
+   ,
+   "Unicorn Dancer Unica":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1528,8 +1528,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Imperial Mammoth": [
+   ,
+   "Imperial Mammoth":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1543,8 +1543,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Wind God": [
+   ,
+   "Wind God":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1558,8 +1558,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Archangel Reina": [
+   ,
+   "Archangel Reina":
       {
          "Ranking": "C-/B-",
          "Score": "39",
@@ -1573,8 +1573,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fighter ": [
+   ,
+   "Fighter ":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1588,8 +1588,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Cloud Chorus": [
+   ,
+   "Cloud Chorus":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1603,8 +1603,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angelic Barrage": [
+   ,
+   "Angelic Barrage":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1618,8 +1618,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Raging Ettin": [
+   ,
+   "Raging Ettin":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1633,8 +1633,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblin": [
+   ,
+   "Goblin":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1648,8 +1648,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angelic Snipe": [
+   ,
+   "Angelic Snipe":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1663,8 +1663,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Minotaur": [
+   ,
+   "Minotaur":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1678,8 +1678,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Mercenary Drifter": [
+   ,
+   "Mercenary Drifter":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1693,8 +1693,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Desert Rider": [
+   ,
+   "Desert Rider":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1708,8 +1708,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Keen Enchantment": [
+   ,
+   "Keen Enchantment":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1723,8 +1723,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Well of Destiny": [
+   ,
+   "Well of Destiny":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1738,8 +1738,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Urd": [
+   ,
+   "Urd":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1753,8 +1753,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Harnessed Flame": [
+   ,
+   "Harnessed Flame":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1768,8 +1768,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bellringer Angel": [
+   ,
+   "Bellringer Angel":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -1783,8 +1783,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Prince of Darkness": [
+   ,
+   "Prince of Darkness":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -1798,8 +1798,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angel Crusher": [
+   ,
+   "Angel Crusher":
       {
          "Ranking": "D-/C",
          "Score": "15",
@@ -1813,8 +1813,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Trail of Light": [
+   ,
+   "Trail of Light":
       {
          "Ranking": "D/D+",
          "Score": "10",
@@ -1828,8 +1828,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Altered Fate": [
+   ,
+   "Altered Fate":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1843,8 +1843,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Path to Purgatory ": [
+   ,
+   "Path to Purgatory ":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1858,8 +1858,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Simulacrum": [
+   ,
+   "Demonic Simulacrum":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1873,8 +1873,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fortunehunter Feena": [
+   ,
+   "Fortunehunter Feena":
       {
          "Ranking": "A",
          "Score": "86",
@@ -1888,8 +1888,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bahamut": [
+   ,
+   "Bahamut":
       {
          "Ranking": "A",
          "Score": "86",
@@ -1903,8 +1903,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gourmet Emporor Khaiza": [
+   ,
+   "Gourmet Emporor Khaiza":
       {
          "Ranking": "A-",
          "Score": "79",
@@ -1918,8 +1918,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblin Mage": [
+   ,
+   "Goblin Mage":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1933,8 +1933,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblinbreaker Teena": [
+   ,
+   "Goblinbreaker Teena":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1948,8 +1948,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lucius, Goblin Slayer": [
+   ,
+   "Lucius, Goblin Slayer":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1963,8 +1963,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Call of Cocytus": [
+   ,
+   "Call of Cocytus":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1978,8 +1978,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Hamsa": [
+   ,
+   "Hamsa":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -1993,8 +1993,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angel of the Word": [
+   ,
+   "Angel of the Word":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -2008,8 +2008,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lyrial, Celestial Archer": [
+   ,
+   "Lyrial, Celestial Archer":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -2023,8 +2023,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sektor": [
+   ,
+   "Sektor":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -2038,8 +2038,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Uriel": [
+   ,
+   "Uriel":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -2053,8 +2053,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sahaquiel": [
+   ,
+   "Sahaquiel":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -2068,8 +2068,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Valkyrie's Spear": [
+   ,
+   "Valkyrie's Spear":
       {
          "Ranking": "D",
          "Score": "5",
@@ -2083,5 +2083,5 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ]
+
 }

@@ -1,5 +1,5 @@
 {
-   "Waredrobe Raider": [
+   "Waredrobe Raider":
       {
          "Ranking": "A",
          "Score": "86",
@@ -13,8 +13,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Soul Navigator": [
+   ,
+   "Soul Navigator":
       {
          "Ranking": "A",
          "Score": "86",
@@ -28,8 +28,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Night Horde": [
+   ,
+   "Night Horde":
       {
          "Ranking": "A-/A",
          "Score": "83",
@@ -43,8 +43,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Revelation": [
+   ,
+   "Revelation":
       {
          "Ranking": "A-/A",
          "Score": "83",
@@ -58,8 +58,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dire Bond": [
+   ,
+   "Dire Bond":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -73,8 +73,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Erinyes": [
+   ,
+   "Erinyes":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -88,8 +88,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Medusa": [
+   ,
+   "Medusa":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -103,8 +103,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Queen Vampire": [
+   ,
+   "Queen Vampire":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -118,8 +118,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Furiae": [
+   ,
+   "Furiae":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -133,8 +133,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Temptress Vampire": [
+   ,
+   "Temptress Vampire":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -148,8 +148,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Vania, Vampire Princess": [
+   ,
+   "Vania, Vampire Princess":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -163,8 +163,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Soul Dealer": [
+   ,
+   "Soul Dealer":
       {
          "Ranking": "B/A",
          "Score": "74",
@@ -178,8 +178,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Alucard": [
+   ,
+   "Alucard":
       {
          "Ranking": "B+/A-",
          "Score": "74",
@@ -193,8 +193,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Razory Claw": [
+   ,
+   "Razory Claw":
       {
          "Ranking": "B+",
          "Score": "68",
@@ -208,8 +208,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Crazed Executioner": [
+   ,
+   "Crazed Executioner":
       {
          "Ranking": "B+",
          "Score": "68",
@@ -223,8 +223,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Imp Lancer ": [
+   ,
+   "Imp Lancer ":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -238,8 +238,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Storm": [
+   ,
+   "Demonic Storm":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -253,8 +253,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Azazel": [
+   ,
+   "Azazel":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -268,8 +268,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Serpent Charmer": [
+   ,
+   "Serpent Charmer":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -283,8 +283,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Blood Wolf": [
+   ,
+   "Blood Wolf":
       {
          "Ranking": "B",
          "Score": "62",
@@ -298,8 +298,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Righteous Devil": [
+   ,
+   "Righteous Devil":
       {
          "Ranking": "B",
          "Score": "62",
@@ -313,8 +313,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Crimson Purge": [
+   ,
+   "Crimson Purge":
       {
          "Ranking": "B",
          "Score": "62",
@@ -328,8 +328,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Beast Dominator": [
+   ,
+   "Beast Dominator":
       {
          "Ranking": "B",
          "Score": "62",
@@ -343,8 +343,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bloody Mary": [
+   ,
+   "Bloody Mary":
       {
          "Ranking": "B",
          "Score": "62",
@@ -358,8 +358,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Summon Bloodkin": [
+   ,
+   "Summon Bloodkin":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -373,8 +373,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Succubus": [
+   ,
+   "Succubus":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -388,8 +388,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Vampire Lycos": [
+   ,
+   "Vampire Lycos":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -403,8 +403,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Blood Rage": [
+   ,
+   "Blood Rage":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -418,8 +418,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Savage Hunt": [
+   ,
+   "Savage Hunt":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -433,8 +433,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Rampaging Giant": [
+   ,
+   "Rampaging Giant":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -448,8 +448,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Labyrinth Devil": [
+   ,
+   "Labyrinth Devil":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -463,8 +463,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dark General": [
+   ,
+   "Dark General":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -478,8 +478,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Vampire Bard": [
+   ,
+   "Vampire Bard":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -493,8 +493,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Abyss Beast": [
+   ,
+   "Abyss Beast":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -508,8 +508,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Precious Bloodfangs": [
+   ,
+   "Precious Bloodfangs":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -523,8 +523,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Frenzied Juggernaut": [
+   ,
+   "Frenzied Juggernaut":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -538,8 +538,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Thrall": [
+   ,
+   "Demonic Thrall":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -553,8 +553,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Blood Pact": [
+   ,
+   "Blood Pact":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -568,8 +568,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Diabolic Drain": [
+   ,
+   "Diabolic Drain":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -583,8 +583,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Midnight Vampire": [
+   ,
+   "Midnight Vampire":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -598,8 +598,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Barbaric Demon": [
+   ,
+   "Barbaric Demon":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -613,8 +613,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Medusa's Gaze": [
+   ,
+   "Medusa's Gaze":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -628,8 +628,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Vampiric kiss": [
+   ,
+   "Vampiric kiss":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -643,8 +643,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dark Summoner": [
+   ,
+   "Dark Summoner":
       {
          "Ranking": "C/B-",
          "Score": "47",
@@ -658,8 +658,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Ambling Wraith": [
+   ,
+   "Ambling Wraith":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -673,8 +673,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sweetfang Vampire": [
+   ,
+   "Sweetfang Vampire":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -688,8 +688,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Metal Gargoyle ": [
+   ,
+   "Metal Gargoyle ":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -703,8 +703,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Killer Devil": [
+   ,
+   "Killer Devil":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -718,8 +718,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Masked Butcher": [
+   ,
+   "Masked Butcher":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -733,8 +733,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Mini soul devil": [
+   ,
+   "Mini soul devil":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -748,8 +748,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Hedonist": [
+   ,
+   "Demonic Hedonist":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -763,8 +763,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bloodfed Flowerfield": [
+   ,
+   "Bloodfed Flowerfield":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -778,8 +778,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Venomous Cobra": [
+   ,
+   "Venomous Cobra":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -793,8 +793,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Mormo": [
+   ,
+   "Mormo":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -808,8 +808,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Raging Giant": [
+   ,
+   "Raging Giant":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -823,8 +823,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Cursebrand Vampire": [
+   ,
+   "Cursebrand Vampire":
       {
          "Ranking": "C",
          "Score": "35",
@@ -838,8 +838,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Nightmare": [
+   ,
+   "Nightmare":
       {
          "Ranking": "C",
          "Score": "35",
@@ -853,8 +853,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lilith ": [
+   ,
+   "Lilith ":
       {
          "Ranking": "C",
          "Score": "35",
@@ -868,8 +868,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Rain Devil": [
+   ,
+   "Rain Devil":
       {
          "Ranking": "C",
          "Score": "35",
@@ -883,8 +883,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonhand Assassin": [
+   ,
+   "Demonhand Assassin":
       {
          "Ranking": "C",
          "Score": "35",
@@ -898,8 +898,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Devil of Vengeance": [
+   ,
+   "Devil of Vengeance":
       {
          "Ranking": "C",
          "Score": "35",
@@ -913,8 +913,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demon Commander Laura": [
+   ,
+   "Demon Commander Laura":
       {
          "Ranking": "C-/C",
          "Score": "30",
@@ -928,8 +928,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gluttonous Gorger": [
+   ,
+   "Gluttonous Gorger":
       {
          "Ranking": "C-/C",
          "Score": "30",
@@ -943,8 +943,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Vampiric Fortress": [
+   ,
+   "Vampiric Fortress":
       {
          "Ranking": "D/C",
          "Score": "20",
@@ -958,8 +958,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Limil's Way": [
+   ,
+   "Limil's Way":
       {
          "Ranking": "D",
          "Score": "5",
@@ -973,8 +973,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Sniper": [
+   ,
+   "Demonic Sniper":
       {
          "Ranking": "D",
          "Score": "5",
@@ -988,8 +988,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Geryon": [
+   ,
+   "Geryon":
       {
          "Ranking": "D",
          "Score": "5",
@@ -1003,8 +1003,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bloodhungry Matriarch": [
+   ,
+   "Bloodhungry Matriarch":
       {
          "Ranking": "A",
          "Score": "86",
@@ -1018,8 +1018,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Veight, Vampire Noble": [
+   ,
+   "Veight, Vampire Noble":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1033,8 +1033,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sadistic Night": [
+   ,
+   "Sadistic Night":
       {
          "Ranking": "A-",
          "Score": "79",
@@ -1048,8 +1048,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Mastema": [
+   ,
+   "Mastema":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1063,8 +1063,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Squall Lancer": [
+   ,
+   "Squall Lancer":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1078,8 +1078,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Ice Blade Warfiend": [
+   ,
+   "Ice Blade Warfiend":
       {
          "Ranking": "B+/A",
          "Score": "79",
@@ -1093,8 +1093,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Flood Behemoth": [
+   ,
+   "Flood Behemoth":
       {
          "Ranking": "B+",
          "Score": "68",
@@ -1108,8 +1108,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Yurius, Levin Duke": [
+   ,
+   "Yurius, Levin Duke":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1123,8 +1123,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Hungering Horde": [
+   ,
+   "Hungering Horde":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1138,8 +1138,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Alpha Wolfman": [
+   ,
+   "Alpha Wolfman":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1153,8 +1153,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Moriana the Bejeweled": [
+   ,
+   "Moriana the Bejeweled":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1168,8 +1168,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Executioner's Axe": [
+   ,
+   "Executioner's Axe":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1183,8 +1183,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Brazen Demoness": [
+   ,
+   "Brazen Demoness":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1198,8 +1198,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "": [
+   ,
+   "":
       {
          "Ranking": "",
          "Score": "",
@@ -1213,8 +1213,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Neutrals": [
+   ,
+   "Neutrals":
       {
          "Ranking": "",
          "Score": "",
@@ -1228,8 +1228,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dark Angel Olivia": [
+   ,
+   "Dark Angel Olivia":
       {
          "Ranking": "S",
          "Score": "98",
@@ -1243,8 +1243,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lucifer": [
+   ,
+   "Lucifer":
       {
          "Ranking": "B+/A-",
          "Score": "74",
@@ -1258,8 +1258,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gabriel": [
+   ,
+   "Gabriel":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1273,8 +1273,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Odin": [
+   ,
+   "Odin":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1288,8 +1288,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Surefire Bullet": [
+   ,
+   "Surefire Bullet":
       {
          "Ranking": "B/B+",
          "Score": "65",
@@ -1303,8 +1303,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Athena": [
+   ,
+   "Athena":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1318,8 +1318,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gilgamesh": [
+   ,
+   "Gilgamesh":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1333,8 +1333,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Humpty Dumty": [
+   ,
+   "Humpty Dumty":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1348,8 +1348,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Dance Of Death": [
+   ,
+   "Dance Of Death":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1363,8 +1363,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Healing Angel": [
+   ,
+   "Healing Angel":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1378,8 +1378,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Spellbook Decryption": [
+   ,
+   "Spellbook Decryption":
       {
          "Ranking": "C+/B+",
          "Score": "59",
@@ -1393,8 +1393,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Execution": [
+   ,
+   "Execution":
       {
          "Ranking": "B-",
          "Score": "56",
@@ -1408,8 +1408,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblinmount Demon": [
+   ,
+   "Goblinmount Demon":
       {
          "Ranking": "C+/B",
          "Score": "53",
@@ -1423,8 +1423,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Harnessed Glass": [
+   ,
+   "Harnessed Glass":
       {
          "Ranking": "C/B",
          "Score": "50",
@@ -1438,8 +1438,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Strike": [
+   ,
+   "Demonic Strike":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -1453,8 +1453,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Shield Angel": [
+   ,
+   "Shield Angel":
       {
          "Ranking": "C/B-",
          "Score": "47",
@@ -1468,8 +1468,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lizardman": [
+   ,
+   "Lizardman":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1483,8 +1483,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goliath": [
+   ,
+   "Goliath":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1498,8 +1498,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angelic Sword Maiden": [
+   ,
+   "Angelic Sword Maiden":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1513,8 +1513,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Unicorn Dancer Unica": [
+   ,
+   "Unicorn Dancer Unica":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1528,8 +1528,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Imperial Mammoth": [
+   ,
+   "Imperial Mammoth":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1543,8 +1543,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Wind God": [
+   ,
+   "Wind God":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -1558,8 +1558,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Archangel Reina": [
+   ,
+   "Archangel Reina":
       {
          "Ranking": "C-/B-",
          "Score": "39",
@@ -1573,8 +1573,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fighter ": [
+   ,
+   "Fighter ":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1588,8 +1588,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Cloud Chorus": [
+   ,
+   "Cloud Chorus":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1603,8 +1603,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angelic Barrage": [
+   ,
+   "Angelic Barrage":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1618,8 +1618,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Raging Ettin": [
+   ,
+   "Raging Ettin":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -1633,8 +1633,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblin": [
+   ,
+   "Goblin":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1648,8 +1648,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angelic Snipe": [
+   ,
+   "Angelic Snipe":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1663,8 +1663,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Minotaur": [
+   ,
+   "Minotaur":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1678,8 +1678,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Mercenary Drifter": [
+   ,
+   "Mercenary Drifter":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1693,8 +1693,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Desert Rider": [
+   ,
+   "Desert Rider":
       {
          "Ranking": "C",
          "Score": "35",
@@ -1708,8 +1708,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Keen Enchantment": [
+   ,
+   "Keen Enchantment":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1723,8 +1723,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Well of Destiny": [
+   ,
+   "Well of Destiny":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1738,8 +1738,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Urd": [
+   ,
+   "Urd":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1753,8 +1753,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Harnessed Flame": [
+   ,
+   "Harnessed Flame":
       {
          "Ranking": "C-",
          "Score": "25",
@@ -1768,8 +1768,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bellringer Angel": [
+   ,
+   "Bellringer Angel":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -1783,8 +1783,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Prince of Darkness": [
+   ,
+   "Prince of Darkness":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -1798,8 +1798,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angel Crusher": [
+   ,
+   "Angel Crusher":
       {
          "Ranking": "D-/C",
          "Score": "15",
@@ -1813,8 +1813,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Trail of Light": [
+   ,
+   "Trail of Light":
       {
          "Ranking": "D/D+",
          "Score": "10",
@@ -1828,8 +1828,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Altered Fate": [
+   ,
+   "Altered Fate":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1843,8 +1843,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Path to Purgatory ": [
+   ,
+   "Path to Purgatory ":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1858,8 +1858,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Demonic Simulacrum": [
+   ,
+   "Demonic Simulacrum":
       {
          "Ranking": "D-",
          "Score": "2",
@@ -1873,8 +1873,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Fortunehunter Feena": [
+   ,
+   "Fortunehunter Feena":
       {
          "Ranking": "A",
          "Score": "86",
@@ -1888,8 +1888,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Bahamut": [
+   ,
+   "Bahamut":
       {
          "Ranking": "A",
          "Score": "86",
@@ -1903,8 +1903,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Gourmet Emporor Khaiza": [
+   ,
+   "Gourmet Emporor Khaiza":
       {
          "Ranking": "A-",
          "Score": "79",
@@ -1918,8 +1918,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblin Mage": [
+   ,
+   "Goblin Mage":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1933,8 +1933,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Goblinbreaker Teena": [
+   ,
+   "Goblinbreaker Teena":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1948,8 +1948,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lucius, Goblin Slayer": [
+   ,
+   "Lucius, Goblin Slayer":
       {
          "Ranking": "B",
          "Score": "62",
@@ -1963,8 +1963,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Call of Cocytus": [
+   ,
+   "Call of Cocytus":
       {
          "Ranking": "B-/B",
          "Score": "59",
@@ -1978,8 +1978,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Hamsa": [
+   ,
+   "Hamsa":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -1993,8 +1993,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Angel of the Word": [
+   ,
+   "Angel of the Word":
       {
          "Ranking": "C+/B-",
          "Score": "50",
@@ -2008,8 +2008,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Lyrial, Celestial Archer": [
+   ,
+   "Lyrial, Celestial Archer":
       {
          "Ranking": "C+",
          "Score": "43",
@@ -2023,8 +2023,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sektor": [
+   ,
+   "Sektor":
       {
          "Ranking": "C/C+",
          "Score": "39",
@@ -2038,8 +2038,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Uriel": [
+   ,
+   "Uriel":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -2053,8 +2053,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Sahaquiel": [
+   ,
+   "Sahaquiel":
       {
          "Ranking": "D+/C-",
          "Score": "20",
@@ -2068,8 +2068,8 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
-   "Valkyrie's Spear": [
+   ,
+   "Valkyrie's Spear":
       {
          "Ranking": "D",
          "Score": "5",
@@ -2083,5 +2083,5 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ]
+
 }

@@ -13,7 +13,7 @@
          "FIELD11": "",
          "FIELD12": ""
       }
-   ],
+   ,
    "Orb Dragon": [
       {
          "Ranking": "A",
@@ -29,7 +29,7 @@
          "FIELD12": ""
       }
    ],
-   "Fafnir": [
+   "Fafnir":
       {
          "Ranking": "B+/A+",
          "Score": "83",
