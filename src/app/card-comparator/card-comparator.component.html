@@ -1,27 +1,46 @@
 <div *ngIf="class">
   <h2 class= 'select-header'><span>Select a pair to add to your deck.</span></h2>
   <div class='select-card-container'>
-    <div class = 'left-cards'>
-      <div class="card card-1">
-        <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
-        <app-search [class]="class"></app-search>
+    <div class="cards-container">
+      <div class ='left-cards'>
+        <div class="card card-1">
+          <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
+          <app-search [class]="class"></app-search>
+        </div>
+        <div class="card card-2">
+          <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
+          <app-search [class]="class"></app-search>
+        </div>
       </div>
-      <div class="card card-2">
-        <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
-        <app-search [class]="class"></app-search>
+      <div class='select-cards-button' *ngIf="class">
+        <div class="back-button">
+          <div class="select-left"></div>
+          <div class="select-middle">Select</div>
+          <div class="select-right"></div>
+        </div>
       </div>
     </div>
     <div class='class-image-container'>
       <img src="https://s3.amazonaws.com/taketwohelper/{{className}}.png" alt="" />
     </div>
-    <div class= 'right-cards'>
-      <div class="card card-3">
-        <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
-        <app-search [class]="class"></app-search>
+    <div class="cards-container">
+      <div class= 'right-cards'>
+        <div class="card card-3">
+          <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
+          <app-search [class]="class"></app-search>
+        </div>
+        <div class="card card-4">
+          <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
+          <app-search [class]="class"></app-search>
+        </div>
       </div>
-      <div class="card card-4">
-        <img src="https://gamewith.akamaized.net/img/d8c54133bc04f9ce0bc2d492c1801618.jpg"/>
-        <app-search [class]="class"></app-search>
+
+      <div class='select-cards-button' *ngIf="class">
+        <div class="back-button">
+          <div class="select-left"></div>
+          <div class="select-middle">Select</div>
+          <div class="select-right"></div>
+        </div>
       </div>
     </div>
   </div>
