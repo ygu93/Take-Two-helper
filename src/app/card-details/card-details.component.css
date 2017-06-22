@@ -1,3 +1,10 @@
 .card-details{
   width: 219px;
+  color: white;
+  background-color: #867951;
+  opacity: 0.7;
+  list-style: none;
+  border-radius: 3px;
+  margin-top: 10px;
+  padding: 5px;
 }
